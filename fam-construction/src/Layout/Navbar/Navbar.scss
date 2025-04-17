@@ -1,0 +1,52 @@
+#navbar{
+    background-color: #f57c04;
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+.row{
+    width: 100%;
+}
+.col-md-3{
+    img{
+        width: auto;
+    }
+}
+.col-xl-2{
+    a{
+        text-decoration: none;    
+        color: black;            
+        position: relative;       
+        font-size: 18px;          
+        padding-bottom: 5px;      
+        transition: all 0.3s ease-in-out; 
+       }
+       a::after {
+        content: '';
+        position: absolute;
+        bottom: 0;                
+        left: 0;
+        width: 100%;
+        height: 3px;              
+        background-color: rgb(255, 255, 255);        
+        transform: scaleX(0);
+        transform-origin: bottom; 
+        transition: transform 0.375s ease-in-out;
+      }
+      a:hover::after {
+        transform: scaleX(1) translateY(1px); /* Xətt genişlənir və yuxarı qalxır */
+        transform-origin: bottom;         
+      }
+    img{
+        padding: 5px;
+    }
+}
+ .link{
+    padding-top: 10px;
+    a{
+        color: white;
+        font-size: 1.1rem;
+        font-weight: 640;
+        text-decoration: none;
+    }
+ } 
+}

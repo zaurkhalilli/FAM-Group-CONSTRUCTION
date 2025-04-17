@@ -1,0 +1,22 @@
+#homehaqqimizda{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    h2{
+        padding-bottom: 20px;
+    }
+    .imgleft{
+        position: relative;
+        display: inline-block;
+        overflow: hidden;
+    image{
+        width: 100%; 
+        height: auto;
+        transition: opacity 0.8s ease;
+        transform: translateX(100%)
+    }
+ }
+    .imgleft:hover img {
+        opacity: 0.7; 
+      }
+}
