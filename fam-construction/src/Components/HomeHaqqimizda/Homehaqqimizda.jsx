@@ -1,5 +1,6 @@
 import React from 'react'
 import styled from '../HomeHaqqimizda/Homehaqqimizda.scss'
+import { Link } from 'react-router-dom';
 const Homehaqqimizda = () => {
   return (
     <div id='homehaqqimizda'>
@@ -13,7 +14,9 @@ const Homehaqqimizda = () => {
            </div>
             </div>
             <div className="col-xl-6">
-            <button>ƏTRAFLI MƏLUMAT</button>
+           <div className="homebtn">
+           <Link to="/haqqimizda"> <button>ƏTRAFLI MƏLUMAT</button></Link>
+           </div>
             </div>
         </div>
       </div>
