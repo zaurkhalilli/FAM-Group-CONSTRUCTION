@@ -6,6 +6,7 @@ import styled from '../Home/Home.scss'
 import Homexidmet from '../../Components/HomeXidmetler/Homexidmet'
 import Homelayiheler from '../../Components/HomeLayiheler/Homelayiheler'
 import Homemap from '../../Components/HomeMap/Homemap'
+import Homeelaqe from '../../Components/HomeElaqe/Homeelaqe'
 const Home = () => {
   return (
     <div>
@@ -14,6 +15,7 @@ const Home = () => {
       <Homexidmet/>
       <Homelayiheler/>
       <Homemap/>
+      <Homeelaqe/>
     </div>
   )
 }

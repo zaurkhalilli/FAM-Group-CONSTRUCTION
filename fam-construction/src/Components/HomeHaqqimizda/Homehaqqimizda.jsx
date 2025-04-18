@@ -6,7 +6,7 @@ const Homehaqqimizda = () => {
     <div id='homehaqqimizda'>
       <h2>HAQQIMIZDA</h2>
       <div className="container">
-        <div className="row">
+        <div className="row g-3">
             <div className="col-xl-6">
            <div className="imgleft">
            <img src="https://famgroupconstruction.az/templates/az/images/about.png" alt="" />
