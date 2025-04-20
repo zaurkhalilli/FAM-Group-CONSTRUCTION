@@ -47,6 +47,13 @@ const Footer = () => {
           </div>
         </div>
       </div>
+      <div className="sonluq">
+      <span>
+      Copyright © 2021
+      <br />
+      FAM GROUP CONSTRUCTION. Bütün hüquqlar qorunur.
+      </span>
+      </div>
     </div>
   )
 }
