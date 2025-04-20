@@ -4,6 +4,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import styled from "../HomeTop/Hometop.scss"
 const Hometop = () => {
+  
     const settings = {
         dots: true,           
         infinite: true,
@@ -19,6 +20,7 @@ const Hometop = () => {
     "https://famgroupconstruction.az/templates/az/images/slider3.png",
     "https://famgroupconstruction.az/templates/az/images/slider4.png"
   ];
+  
 
   return (
     <div className='Hometop'>
@@ -35,6 +37,7 @@ const Hometop = () => {
     </div>
     </div>
   )
+ 
 }
 
 export default Hometop

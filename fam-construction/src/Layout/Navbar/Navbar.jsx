@@ -1,5 +1,5 @@
 import React from 'react'
-import styled from '../Navbar/Navbar.scss';
+import styled  from '../Navbar/Navbar.scss';
 import { Link } from 'react-router-dom';
 const Navbar = () => {
   return (
@@ -21,9 +21,9 @@ const Navbar = () => {
                         <div className="col-xl-2"> <Link to="/lahiyeler">LAHİYƏLƏR</Link></div>
                         <div className="col-xl-2"> <Link to="/elaqe">ƏLAQƏ</Link></div>
                         <div className="col-xl-2">
-                        <a href="Fam"> <img src="https://www.famgroupconsulting.az/assets/images/en.png" alt="" /> </a> 
-                        <a href="Fam"> <img src="https://www.famgroupconsulting.az/assets/images/az.png" alt="" /> </a> 
-                        <a href="Fam"> <img src="https://www.famgroupconsulting.az/assets/images/ru.png" alt="" /> </a>
+                        <a href="/"> <img src="https://www.famgroupconsulting.az/assets/images/en.png" alt="" /> </a> 
+                        <a href="/"> <img src="https://www.famgroupconsulting.az/assets/images/az.png" alt="" /> </a> 
+                        <a href="/"> <img src="https://www.famgroupconsulting.az/assets/images/ru.png" alt="" /> </a>
                         </div>
                       </div>
                     </div>
