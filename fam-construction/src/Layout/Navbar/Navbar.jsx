@@ -18,7 +18,7 @@ const Navbar = () => {
                         <div className="col-xl-2"> <Link to="/">ANA SƏHİFƏ</Link> </div>
                         <div className="col-xl-2"> <Link to="/haqqimizda">HAQQIMIZDA</Link></div>
                         <div className="col-xl-2"> <Link to="/xidmetler">XİDMƏTLƏR</Link></div>
-                        <div className="col-xl-2"> <Link to="/lahiyeler">LAHİYƏLƏR</Link></div>
+                        <div className="col-xl-2"> <Link to="/layiheler">LAHİYƏLƏR</Link></div>
                         <div className="col-xl-2"> <Link to="/elaqe">ƏLAQƏ</Link></div>
                         <div className="col-xl-2">
                         <a href="/"> <img src="https://www.famgroupconsulting.az/assets/images/en.png" alt="" /> </a> 

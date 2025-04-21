@@ -8,7 +8,6 @@ import Xidmetler from './Pages/Xidmətlər/Xidmetler';
 import Elaqe from './Pages/Əlaqə/Elaqe';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import Bakcell from './Components/Bakcell/Bakcell';
 import Fizuli from './Pages/Fizuli/Fizuli';
 import Siyezen from './Pages/Siyezen/Siyezen';
 import Seyidehmedli from './Pages/Seyidehmedli/Seyidehmedli';
@@ -16,6 +15,7 @@ import Qusar from './Pages/Qusar/Qusar';
 import Xacmaz from './Pages/Xacmaz/Xacmaz';
 import Azerkimya from './Pages/Azerkimya/Azerkimya';
 import Agdam from './Pages/Agdam/Agdam';
+import Bakcell from './Components/Bakcell/Bakcell';
 const App = () => {
 return (
   <div>
@@ -25,7 +25,7 @@ return (
         <Route index path='/' element={<Home/>} />
         <Route index path='/haqqimizda' element={<Haqqinda/>} />
         <Route index path='/xidmetler' element={<Xidmetler/>} />
-        <Route index path='/lahiyeler' element={<Lahiye/>} />
+        <Route index path='/layiheler' element={<Lahiye/>} />
         <Route index path='/elaqe' element={<Elaqe/>} />
         <Route index path='/bakcell' element={<Bakcell/>} />
         <Route index path='/fizuli' element={<Fizuli/>} />
