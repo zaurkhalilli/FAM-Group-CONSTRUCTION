@@ -32,7 +32,7 @@ const Layiheleresas = () => {
           <img src="https://famgroupconstruction.az/uploads/posts/2023-07/1690656001_11.jpg" class="card-img-top" alt="..."/>
           <div class="card-body">
             <h5 class="card-title">Siyəzən rayonu ərazisində 30 metrəlik Ötürücü baza stansiyasının inşaası</h5>
-            <Link to="/fizuli" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>  
+            <Link to="/siyezen" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>  
           </div>
         </div>
           </div>
@@ -41,7 +41,7 @@ const Layiheleresas = () => {
           <img src="https://famgroupconstruction.az/uploads/posts/2023-07/1690654975_3.jpg" class="card-img-top" alt="..."/>
           <div class="card-body">
             <h5 class="card-title">Fizuli rayonu SeyyidƏhmədli kəndində inşaa etdiyimiz 60 metrəlik Ötürüçü baza stansiyası</h5>
-            <Link to="/fizuli" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>  
+            <Link to="/seyidehmedli" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>  
           </div>
         </div>
           </div>
