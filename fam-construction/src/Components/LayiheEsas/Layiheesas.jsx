@@ -14,6 +14,7 @@ const Layiheleresas = () => {
           <img src="https://famgroupconstruction.az/uploads/posts/2023-07/1690657671_7.jpg" class="card-img-top" alt="..."/>
           <div class="card-body">
             <h5 class="card-title">Gəncə şəhərində Bakcell Müştəri xidmətləri mərkəzinin təmiri</h5>
+            <br />
             <Link to="/bakcell" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>
           </div>
         </div>
