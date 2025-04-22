@@ -34,7 +34,7 @@
   }
     ul{
         font-weight: 650;
-        font-size: 1.3rem;
+        font-size: 18px;
         color: rgb(255, 255, 255);
         letter-spacing: 1.5px;
     }
@@ -47,10 +47,31 @@
             color: white;
         }
     }
+    .social{
+        display: flex;
+        ul{
+            font-weight: 650;
+            font-size: 18px;
+            color: rgb(255, 255, 255);
+            letter-spacing: 1.5px;
+            .list{
+                display: flex;
+                justify-content: space-between;
+            }
+        }
+        li{
+            list-style: none;
+            a{
+                letter-spacing: 1px;
+                font-weight: 640;
+                text-decoration: none;
+                color: white;
+            }
+        }
+    }
     .sonluq{
         font-size: 1rem;
         letter-spacing: 1px;
-        padding-top: 20px;
         font-weight: 640;
         text-align: center;
         color: white;

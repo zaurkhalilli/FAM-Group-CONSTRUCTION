@@ -39,21 +39,25 @@ const Footer = () => {
             </ul>
           </div>
           <div className="col-xl-2">
-          <ul> SOSİAL HESABLAR
+         <div className="social">
+           <ul> SOSİAL HESABLAR
               <hr />
-              <li> <Link to="/"><IoLogoFacebook size={32}  /></Link></li>
+            <div className="list">
+              <li><Link to="/"><IoLogoFacebook size={34}  /></Link></li>
               <li><Link to="/haqqimizda"><FaSquareXTwitter size={30} /></Link></li>
               <li><Link to="/xidmetler"><FiInstagram size={30} /></Link></li>
               <li><Link to="/xidmetler"><FaYoutube size={30} /></Link></li>
-            </ul>
+            </div>
+             </ul>
+         </div>
           </div>
         </div>
       </div>
       <div className="sonluq">
       <span>
-      Copyright © 2021
+      Copyright © 2025
       <br />
-      FAM GROUP CONSTRUCTION. Bütün hüquqlar qorunur.
+      FAM GROUP MEDIA. Bütün hüquqlar qorunur.
       </span>
       </div>
     </div>
