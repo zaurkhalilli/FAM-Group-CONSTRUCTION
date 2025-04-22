@@ -16,10 +16,12 @@ import Xacmaz from './Pages/Xacmaz/Xacmaz';
 import Azerkimya from './Pages/Azerkimya/Azerkimya';
 import Agdam from './Pages/Agdam/Agdam';
 import Bakcell from './Components/Bakcell/Bakcell';
+import ScrollToTop from './ScrollToTop';
 const App = () => {
 return (
   <div>
     <BrowserRouter>
+    <ScrollToTop /> 
     <Layout>
       <Routes>
         <Route index path='/' element={<Home/>} />

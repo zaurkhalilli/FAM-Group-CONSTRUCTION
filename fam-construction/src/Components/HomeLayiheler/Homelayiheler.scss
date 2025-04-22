@@ -13,6 +13,8 @@
         height: auto;
         transition: opacity 0.4s ease;
     }
+   .layihetext{
+    padding-left: 10px;
     p{
         max-width: 650px;
         position: absolute;
@@ -24,6 +26,15 @@
         border-radius: 5px;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); 
     }
+   }
+   @media screen and (max-width: 1200px) {
+    .layihetext {
+        p{
+            letter-spacing: 0.7px;
+            font-size: 0.7rem;
+        }
+    }
+  }
  img:hover {
     opacity: 0.7;
  }
