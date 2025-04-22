@@ -3,9 +3,35 @@
     width: 100%;
     padding-top: 50px;
     padding-bottom: 10px;
+    .container{
+        max-width: 1400px;
+        img{
+            padding-top: 25px;
+            width: 81%;
+        }
+    }
+    @media screen and (max-width: 1200px) {
+        .footerlogo {
+            width: 350px; 
+            padding-bottom: 20px;
+        }
+      }
+      @media screen and (max-width: 350px) {
+        .footerlogo {
+            width: 90%; 
+            padding-bottom: 20px;
+            padding-left: 10px;
+        }
+      }
+
    .col-xl-2{
     text-align: left;
    } 
+   @media screen and (max-width: 350px) {
+    .col-xl-2 {
+        padding-left: 0;
+    }
+  }
     ul{
         font-weight: 650;
         font-size: 1.3rem;

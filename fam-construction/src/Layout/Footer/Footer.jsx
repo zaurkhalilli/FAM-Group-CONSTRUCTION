@@ -11,8 +11,10 @@ const Footer = () => {
       <div className="container">
         <div className="row">
           <div className="col-xl-4">
-          <Link to="/"><img src="https://famgroupconstruction.az/templates/az/images/logo.jpg" alt="Fam Group Logo" />
-          </Link>
+         <div className="footerlogo">
+         <Link to="/"><img src="https://famgroupconstruction.az/templates/az/images/logo.jpg" alt="Fam Group Logo" />
+         </Link>
+         </div>
           </div>
           <div className="col-xl-2">
             <ul> ŞİRKƏT
@@ -25,15 +27,15 @@ const Footer = () => {
           <div className="col-xl-2">
           <ul> LAYİHƏLƏR
               <hr />
-              <li> <Link to="/">BİTMİŞ LAYİHƏLƏR</Link></li>
-              <li><Link to="/haqqimizda">DAVAM EDƏN LAYİHƏLƏR</Link></li>
+              <li> <Link to="/layiheler">BİTMİŞ LAYİHƏLƏR</Link></li>
+              <li><Link to="/layiheler">DAVAM EDƏN LAYİHƏLƏR</Link></li>
             </ul>
           </div>
           <div className="col-xl-2">
           <ul> QALEREYA
               <hr />
-              <li> <Link to="/">FOTO QALEREYA</Link></li>
-              <li><Link to="/haqqimizda">VİDEO QALEREYA</Link></li>
+              <li> <Link to="/layiheler">FOTO QALEREYA</Link></li>
+              <li><Link to="/layiheler">VİDEO QALEREYA</Link></li>
             </ul>
           </div>
           <div className="col-xl-2">

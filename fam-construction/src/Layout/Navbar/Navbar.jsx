@@ -1,7 +1,7 @@
 import React from 'react'
 import styled  from '../Navbar/Navbar.scss';
 import { Link } from 'react-router-dom';
-import logo from '../Navbar/fam_construction.png'
+import logo from '../Navbar/logo1.jpg'
 const Navbar = () => {
   return (
     <div id='navbar'>
@@ -16,7 +16,7 @@ const Navbar = () => {
                 </div>
                         <div className="col-xl-2"> 
                           <div className="link">
-                          <Link to="/">ANA SƏHİFƏ</Link> 
+                          <Link to="/" >ANA SƏHİFƏ</Link> 
                           </div>
                           </div>
                         <div className="col-xl-2"> 
