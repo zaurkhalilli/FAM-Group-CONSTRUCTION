@@ -4,6 +4,7 @@ const Haqqindaesas = () => {
   return (
     <div id='haqqindaesas'>
       <div className="container">
+        <h2>HAQQIMIZDA</h2>
         <div className="row g-3">
           <div className="col-xl-6">
           <img src="https://edc.nyc/sites/default/files/styles/16x9_md/public/2024-03/NYCEDC-Circular-Construction-Guidelines-Header-Image.jpg?h=78aab1d8&itok=63UlXj8F" alt="" />

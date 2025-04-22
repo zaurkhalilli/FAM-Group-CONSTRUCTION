@@ -4,13 +4,12 @@ const Xidmetleresas = () => {
   return (
     <div id='xidmetleresas'>
         <hr />
-        <h3>Xidmətlər</h3>
+        <h3>XİDMƏTLƏR</h3>
         <h5>FAM GROUP CONSTRUCTION şirkətinin göstərdiyi xidmətlər:</h5>
         <div className="container">
             <div className="row g-4">
                 <div className="col-xl-6">
                 <img src="https://www.cfisherconstruction.com/wp-content/uploads/2021/04/Project-Planning-Commercial-Construction-Chad-Fisher-Construction.jpg" alt="" />
-               
                 </div>
                 <div className="col-xl-6">
                 <p>Ankerlərin torpağa bərkidilməsi və binaların “torpaqda divar” üsulu ilə tikilməsi

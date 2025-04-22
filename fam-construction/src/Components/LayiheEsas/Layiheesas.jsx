@@ -51,6 +51,7 @@ const Layiheleresas = () => {
           <img src="https://famgroupconstruction.az/uploads/posts/2023-07/1690654289_s1-2.jpg" class="card-img-top" alt="..."/>
           <div class="card-body">
             <h5 class="card-title">Qusar şəhərində inşaa etdiyimiz 50 metrəlik Ötürücü Baza Stansiyası</h5>
+            <br />
             <Link to="/qusar" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>  
           </div>
         </div>
@@ -69,6 +70,7 @@ const Layiheleresas = () => {
           <img src="https://famgroupconstruction.az/uploads/posts/2021-07/1627029549_bez-imeni-1.png" class="card-img-top" alt="..."/>
           <div class="card-body">
             <h5 class="card-title">Xaçmaz Elektrik Stansiyası</h5>
+            <br />
             <Link to="/xacmaz" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>  
           </div>
         </div>
@@ -78,6 +80,7 @@ const Layiheleresas = () => {
           <img src="https://famgroupconstruction.az/uploads/posts/2021-07/1627027789_1111111111.png" class="card-img-top" alt="..."/>
           <div class="card-body">
             <h5 class="card-title">Azərkimya Modernləşdirmə</h5>
+            <br />
             <Link to="/azerkimya" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
           </div>
         </div>
