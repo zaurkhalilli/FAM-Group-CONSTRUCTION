@@ -17,6 +17,7 @@ import Azerkimya from './Pages/Azerkimya/Azerkimya';
 import Agdam from './Pages/Agdam/Agdam';
 import Bakcell from './Components/Bakcell/Bakcell';
 import ScrollToTop from './ScrollToTop';
+import Lisenziyalar from './Pages/Lisenziyalar/Lisenziyalar';
 const App = () => {
 return (
   <div>
@@ -37,6 +38,7 @@ return (
         <Route index path='/agdam' element={<Agdam/>} />
         <Route index path='/xacmaz' element={<Xacmaz/>} />
         <Route index path='/azerkimya' element={<Azerkimya/>} />
+        <Route index path='/lisenziyalar' element={<Lisenziyalar/>} />
       </Routes>
     </Layout> 
     </BrowserRouter>

@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <div id='navbar'>
         <div className="container">
-            <div className="row">
+            <div className="row g-1">
                 <div className="col-xl-2">
                    <div className="logo">
                    <Link to="/">
@@ -14,7 +14,10 @@ const Navbar = () => {
                    </Link>
                    </div>
                 </div>
-                        <div className="col-xl-2"> 
+                    <div className="col-xl-10">
+                  <div className="container">
+                    <div className="row">
+                    <div className="col-xl-2"> 
                           <div className="link">
                           <Link to="/" >ANA SƏHİFƏ</Link> 
                           </div>
@@ -39,6 +42,14 @@ const Navbar = () => {
                           <Link to="/elaqe">ƏLAQƏ</Link>
                           </div>
                         </div>
+                        <div className="col-xl-2">
+                          <div className="link">
+                          <Link to="/lisenziyalar">LİSENZİYALAR</Link>
+                          </div>
+                        </div>
+                    </div>
+                  </div>
+                    </div>
             </div>
         </div>
     </div>
