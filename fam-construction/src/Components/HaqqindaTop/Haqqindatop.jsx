@@ -1,5 +1,5 @@
 import React from 'react'
-import styled from '../HaqqindaTop/Haqqindatop.scss'
+import '../HaqqindaTop/Haqqindatop.scss'
 const Haqqindatop = () => {
   return (
     <div id='haqqindatop'>

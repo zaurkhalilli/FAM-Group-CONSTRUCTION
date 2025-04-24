@@ -1,5 +1,5 @@
 import React from 'react'
-import styled from '../HomeElaqe/Homeelaqe.scss'
+import '../HomeElaqe/Homeelaqe.scss'
 import { MdOutlineMail } from "react-icons/md";
 import { FaGlobe } from "react-icons/fa";
 import { FaArrowRight } from "react-icons/fa";

@@ -1,5 +1,5 @@
 import React from 'react'
-import styled from '../LayiheEsas/Layiheesas.scss'
+import  '../LayiheEsas/Layiheesas.scss'
 import { Link } from 'react-router-dom';
 const Layiheleresas = () => {
   return (

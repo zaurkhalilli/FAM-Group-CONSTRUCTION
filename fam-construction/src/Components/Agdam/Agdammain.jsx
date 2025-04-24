@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
-import styled from '../Agdam/Agdam.scss'
+import '../Agdam/Agdam.scss'
 import { BsBoxArrowLeft } from "react-icons/bs";
 const Agdammain = () => {
   return (

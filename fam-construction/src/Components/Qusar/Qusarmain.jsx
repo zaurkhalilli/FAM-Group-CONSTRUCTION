@@ -1,5 +1,5 @@
 import React from 'react'
-import styled from '../Qusar/Qusar.scss'
+import '../Qusar/Qusar.scss'
 import { Link } from 'react-router-dom';
 import { BsBoxArrowLeft } from "react-icons/bs";
 const Qusarmain = () => {

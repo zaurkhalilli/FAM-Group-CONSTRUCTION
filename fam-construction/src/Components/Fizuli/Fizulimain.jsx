@@ -1,5 +1,5 @@
 import React from 'react'
-import styled from '../Fizuli/Fizulimain.scss'
+import '../Fizuli/Fizulimain.scss'
 import { Link } from 'react-router-dom'
 import { BsBoxArrowLeft } from "react-icons/bs";
 const Fizulimain = () => {

@@ -1,5 +1,5 @@
 import React from 'react'
-import styled from '../Bakcell/Bakcell.scss'
+import '../Bakcell/Bakcell.scss'
 import { Link } from 'react-router-dom';
 import { BsBoxArrowLeft } from "react-icons/bs";
 const Bakcell = () => {

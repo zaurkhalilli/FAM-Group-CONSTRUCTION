@@ -1,8 +1,7 @@
 import React from 'react'
-import App from '../../App'
 import Layihetop from '../../Components/LayiheTop/Layihetop'
 import Layiheesas from '../../Components/LayiheEsas/Layiheesas'
-import styled from '../Layihə/Layihemain.scss'
+import '../Layihə/Layihemain.scss'
 const Lahiye = () => {
   return (
     <div>

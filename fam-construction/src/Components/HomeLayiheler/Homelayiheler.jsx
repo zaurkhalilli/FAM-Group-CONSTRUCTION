@@ -1,5 +1,5 @@
 import React from 'react'
-import styled from '../HomeLayiheler/Homelayiheler.scss'
+import '../HomeLayiheler/Homelayiheler.scss'
 import { Link } from 'react-router-dom';
 const Homelayiheler = () => {
   return (

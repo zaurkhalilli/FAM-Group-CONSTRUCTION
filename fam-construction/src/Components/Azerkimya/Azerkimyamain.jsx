@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
-import styled from '../Azerkimya/Azerkimya.scss'
+import '../Azerkimya/Azerkimya.scss'
 import { BsBoxArrowLeft } from "react-icons/bs";
 const Azerkimyamain = () => {
   return (

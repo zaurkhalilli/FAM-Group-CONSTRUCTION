@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
-import styled from '../Xacmaz/Xacmaz.scss'
+import '../Xacmaz/Xacmaz.scss'
 import { BsBoxArrowLeft } from "react-icons/bs";
 const Xacmazmain = () => {
   return (

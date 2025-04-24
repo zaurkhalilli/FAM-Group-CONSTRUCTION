@@ -1,5 +1,5 @@
 import React from 'react'
-import styled from "../Footer/Footer.scss";
+import  "../Footer/Footer.scss";
 import { Link } from 'react-router-dom';
 import { IoLogoFacebook } from "react-icons/io";
 import { FaSquareXTwitter } from "react-icons/fa6";

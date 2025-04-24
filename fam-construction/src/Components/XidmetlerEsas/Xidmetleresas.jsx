@@ -1,5 +1,5 @@
 import React from 'react'
-import styled from '../XidmetlerEsas/Xidmetleresas.scss'
+import '../XidmetlerEsas/Xidmetleresas.scss'
 const Xidmetleresas = () => {
   return (
     <div id='xidmetleresas'>

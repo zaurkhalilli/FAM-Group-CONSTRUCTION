@@ -1,5 +1,5 @@
 import React from 'react'
-import styled from '../HaqqindaEsas/Haqqindaesas.scss'
+import '../HaqqindaEsas/Haqqindaesas.scss'
 const Haqqindaesas = () => {
   return (
     <div id='haqqindaesas'>

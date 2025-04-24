@@ -2,7 +2,7 @@ import React from 'react'
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import styled from "../HomeTop/Hometop.scss"
+import "../HomeTop/Hometop.scss"
 const Hometop = () => {
   
     const settings = {

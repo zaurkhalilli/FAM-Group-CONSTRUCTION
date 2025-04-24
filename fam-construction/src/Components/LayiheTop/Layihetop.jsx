@@ -1,5 +1,5 @@
 import React from 'react'
-import styled from '../LayiheTop/Layihetop.scss'
+import '../LayiheTop/Layihetop.scss'
 const Layihetop = () => {
   return (
     <div id='layihetop'>
