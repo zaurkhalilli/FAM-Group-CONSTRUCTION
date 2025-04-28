@@ -1,6 +1,7 @@
 import React from 'react'
 import  '../LayiheEsas/Layiheesas.scss'
 import { Link } from 'react-router-dom';
+import Photoleaf from '../3.7m-LEAFSPACE/leafspace1.jpeg'
 const Layiheleresas = () => {
   return (
     <div id='layiheesas'>
@@ -80,6 +81,76 @@ const Layiheleresas = () => {
           <img src="https://famgroupconstruction.az/uploads/posts/2021-07/1627027789_1111111111.png" class="card-img-top" alt="..."/>
           <div class="card-body">
             <h5 class="card-title">Azərkimya Modernləşdirmə</h5>
+            <br />
+            <Link to="/azerkimya" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
+          </div>
+        </div>
+          </div>
+          <div className="col-xl-4">
+          <div class="card">
+          <img src={Photoleaf} class="card-img-top" alt="..."/>
+          <div class="card-body">
+            <h5 class="card-title">LeafSpace 3.7m</h5>
+            <br />
+            <Link to="/leafspace" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
+          </div>
+        </div>
+          </div>
+          <div className="col-xl-4">
+          <div class="card">
+          <img src="https://famgroupconstruction.az/uploads/posts/2021-07/1627027789_1111111111.png" class="card-img-top" alt="..."/>
+          <div class="card-body">
+            <h5 class="card-title"> </h5>
+            <br />
+            <Link to="/azerkimya" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
+          </div>
+        </div>
+          </div>
+          <div className="col-xl-4">
+          <div class="card">
+          <img src="https://famgroupconstruction.az/uploads/posts/2021-07/1627027789_1111111111.png" class="card-img-top" alt="..."/>
+          <div class="card-body">
+            <h5 class="card-title"> </h5>
+            <br />
+            <Link to="/azerkimya" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
+          </div>
+        </div>
+          </div>
+          <div className="col-xl-4">
+          <div class="card">
+          <img src="https://famgroupconstruction.az/uploads/posts/2021-07/1627027789_1111111111.png" class="card-img-top" alt="..."/>
+          <div class="card-body">
+            <h5 class="card-title"> </h5>
+            <br />
+            <Link to="/azerkimya" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
+          </div>
+        </div>
+          </div>
+          <div className="col-xl-4">
+          <div class="card">
+          <img src="https://famgroupconstruction.az/uploads/posts/2021-07/1627027789_1111111111.png" class="card-img-top" alt="..."/>
+          <div class="card-body">
+            <h5 class="card-title"> </h5>
+            <br />
+            <Link to="/azerkimya" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
+          </div>
+        </div>
+          </div>
+          <div className="col-xl-4">
+          <div class="card">
+          <img src="https://famgroupconstruction.az/uploads/posts/2021-07/1627027789_1111111111.png" class="card-img-top" alt="..."/>
+          <div class="card-body">
+            <h5 class="card-title"> </h5>
+            <br />
+            <Link to="/azerkimya" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
+          </div>
+        </div>
+          </div>
+          <div className="col-xl-4">
+          <div class="card">
+          <img src="https://famgroupconstruction.az/uploads/posts/2021-07/1627027789_1111111111.png" class="card-img-top" alt="..."/>
+          <div class="card-body">
+            <h5 class="card-title"> </h5>
             <br />
             <Link to="/azerkimya" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
           </div>

@@ -18,6 +18,7 @@ import Agdam from './Pages/Agdam/Agdam';
 import Bakcell from './Components/Bakcell/Bakcell';
 import ScrollToTop from './ScrollToTop';
 import Lisenziyalar from './Pages/Lisenziyalar/Lisenziyalar';
+import Leafspace1 from './Pages/LeafSpace/Leafspace1';
 const App = () => {
 return (
   <div>
@@ -38,6 +39,13 @@ return (
         <Route index path='/agdam' element={<Agdam/>} />
         <Route index path='/xacmaz' element={<Xacmaz/>} />
         <Route index path='/azerkimya' element={<Azerkimya/>} />
+        <Route index path='/lisenziyalar' element={<Lisenziyalar/>} />
+        <Route index path='/leafspace' element={<Leafspace1/>} />
+        <Route index path='/lisenziyalar' element={<Lisenziyalar/>} />
+        <Route index path='/lisenziyalar' element={<Lisenziyalar/>} />
+        <Route index path='/lisenziyalar' element={<Lisenziyalar/>} />
+        <Route index path='/lisenziyalar' element={<Lisenziyalar/>} />
+        <Route index path='/lisenziyalar' element={<Lisenziyalar/>} />
         <Route index path='/lisenziyalar' element={<Lisenziyalar/>} />
       </Routes>
     </Layout> 
