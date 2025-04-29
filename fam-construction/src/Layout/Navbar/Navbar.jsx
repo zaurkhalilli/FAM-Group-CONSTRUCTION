@@ -17,10 +17,10 @@ const Navbar = () => {
    </div>
    <div className="navright">
       <div className="list">
-                   <li><Link to="/"><IoLogoFacebook size={23}  /></Link></li>
-                   <li><Link to="/haqqimizda"><FaSquareXTwitter size={20} /></Link></li>
-                   <li><Link to="/xidmetler"><FiInstagram size={20} /></Link></li>
-                   <li><Link to="/xidmetler"><FaYoutube size={20} /></Link></li>
+                   <li><Link to="/"><IoLogoFacebook size={25}  /></Link></li>
+                   <li><Link to="/haqqimizda"><FaSquareXTwitter size={21} /></Link></li>
+                   <li><Link to="/xidmetler"><FiInstagram size={21} /></Link></li>
+                   <li><Link to="/xidmetler"><FaYoutube size={24} /></Link></li>
                  </div>
    </div>
    </div>
