@@ -6,21 +6,4 @@
         object-fit: cover;
         position: relative;
     }
-    p{
-        position: absolute;
-        left: 10px;
-        bottom: 20px;
-        color: white;
-        font-size: 25px;
-        font-weight: 640;
-        background-color: rgba(0, 0, 0, 0.822);
-        padding: 5px;
-        border-radius: 5px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); 
-    }
-    @media screen and (max-width: 1200px) {
-        p{
-          display: none;
-        }
-      }
 }

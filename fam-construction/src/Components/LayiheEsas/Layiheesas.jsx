@@ -2,6 +2,7 @@ import React from 'react'
 import  '../LayiheEsas/Layiheesas.scss'
 import { Link } from 'react-router-dom';
 import Photoleaf from '../3.7m-LEAFSPACE/leafspace1.jpeg'
+import Photobs from '../Baku-Shamakhi/baki-samaxi1.jpeg'
 const Layiheleresas = () => {
   return (
     <div id='layiheesas'>
@@ -98,11 +99,11 @@ const Layiheleresas = () => {
           </div>
           <div className="col-xl-4">
           <div class="card">
-          <img src="https://famgroupconstruction.az/uploads/posts/2021-07/1627027789_1111111111.png" class="card-img-top" alt="..."/>
+          <img src={Photobs} class="card-img-top" alt="..."/>
           <div class="card-body">
-            <h5 class="card-title"> </h5>
+            <h5 class="card-title">Bakı - Şamaxı yolu</h5>
             <br />
-            <Link to="/azerkimya" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
+            <Link to="/baki-samaxi" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
           </div>
         </div>
           </div>
@@ -112,7 +113,7 @@ const Layiheleresas = () => {
           <div class="card-body">
             <h5 class="card-title"> </h5>
             <br />
-            <Link to="/azerkimya" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
+            <Link to="/" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
           </div>
         </div>
           </div>
@@ -122,7 +123,7 @@ const Layiheleresas = () => {
           <div class="card-body">
             <h5 class="card-title"> </h5>
             <br />
-            <Link to="/azerkimya" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
+            <Link to="/" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
           </div>
         </div>
           </div>
@@ -132,7 +133,7 @@ const Layiheleresas = () => {
           <div class="card-body">
             <h5 class="card-title"> </h5>
             <br />
-            <Link to="/azerkimya" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
+            <Link to="/" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
           </div>
         </div>
           </div>
@@ -142,7 +143,7 @@ const Layiheleresas = () => {
           <div class="card-body">
             <h5 class="card-title"> </h5>
             <br />
-            <Link to="/azerkimya" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
+            <Link to="/" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
           </div>
         </div>
           </div>
@@ -152,7 +153,7 @@ const Layiheleresas = () => {
           <div class="card-body">
             <h5 class="card-title"> </h5>
             <br />
-            <Link to="/azerkimya" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
+            <Link to="/" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
           </div>
         </div>
           </div>
