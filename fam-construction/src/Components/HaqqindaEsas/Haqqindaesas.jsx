@@ -22,6 +22,13 @@ const Haqqindaesas = () => {
     Göyçay rayonunda Nar Hotelində, metal konstruksiyadan Nar ofisinin hazırlanması işləri görülmüşdür.
     28 yanvar 2021-ci il tarixində Xacmaz ES-da soyutma radiatorlarının təmiri və quraşdırılması işləri yerinə yetirilmiş və 25 fevral 2021-ci il tarixində təhvil verilmişdir.
     “FAM Group Construction” MMC-nin baş ofisi Bakı şəhəri, N.Nərimanov rayonu, Əhməd Rəcəbli küçəsi 226 ünvanında yerləşir.</p>
+    <span>
+    Mob.: (+994 50) 278-72-27
+    <br />
+    Tel.: (+994 12) 565-57-84
+    <br />
+    Email: office@famgroupconstruction.az
+    </span>
         </div>
       </div>
      </div>

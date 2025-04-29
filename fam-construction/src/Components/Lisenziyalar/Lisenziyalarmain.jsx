@@ -9,7 +9,6 @@ const Lisenziyalarmain = () => {
     <div id='lisenziyalar'>
       <div className="lisenziyalartop">
      <img src="https://famgroupconstruction.az/templates/az/images/services-cat.jpg" alt="" />
-      <p>LİSENZİYALAR</p>
      </div>
        <div className="lisenziyalaresas">
        <div className="container">

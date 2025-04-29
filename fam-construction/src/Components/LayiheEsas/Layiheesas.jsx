@@ -3,6 +3,11 @@ import  '../LayiheEsas/Layiheesas.scss'
 import { Link } from 'react-router-dom';
 import Photoleaf from '../3.7m-LEAFSPACE/leafspace1.jpeg'
 import Photobs from '../Baku-Shamakhi/baki-samaxi1.jpeg'
+import Photoengixaran from '../Engixaran vilage/engixaran1.jpeg'
+import Photocuvarli from '../Fizuli Cuvarlı/fizulicuvarli3.jpeg'
+import Photogreenhouse from '../Ismayılı GREN HOUSE/Greenhouse1.jpeg'
+import Photomuhafize from '../NORM MUHAFIZƏ KÖŞKÜ/norm1.jpeg'
+import Photoqusarhub from '../Qusar HUB/qusar (6).jpeg'
 const Layiheleresas = () => {
   return (
     <div id='layiheesas'>
@@ -109,9 +114,9 @@ const Layiheleresas = () => {
           </div>
           <div className="col-xl-4">
           <div class="card">
-          <img src="https://famgroupconstruction.az/uploads/posts/2021-07/1627027789_1111111111.png" class="card-img-top" alt="..."/>
+          <img src={Photoengixaran} class="card-img-top" alt="..."/>
           <div class="card-body">
-            <h5 class="card-title"> </h5>
+            <h5 class="card-title"> Engixaran Village </h5>
             <br />
             <Link to="/" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
           </div>
@@ -119,9 +124,9 @@ const Layiheleresas = () => {
           </div>
           <div className="col-xl-4">
           <div class="card">
-          <img src="https://famgroupconstruction.az/uploads/posts/2021-07/1627027789_1111111111.png" class="card-img-top" alt="..."/>
+          <img src={Photocuvarli} class="card-img-top" alt="..."/>
           <div class="card-body">
-            <h5 class="card-title"> </h5>
+            <h5 class="card-title"> Fizuli Cuvarlı</h5>
             <br />
             <Link to="/" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
           </div>
@@ -129,9 +134,9 @@ const Layiheleresas = () => {
           </div>
           <div className="col-xl-4">
           <div class="card">
-          <img src="https://famgroupconstruction.az/uploads/posts/2021-07/1627027789_1111111111.png" class="card-img-top" alt="..."/>
+          <img src={Photogreenhouse} class="card-img-top" alt="..."/>
           <div class="card-body">
-            <h5 class="card-title"> </h5>
+            <h5 class="card-title"> İsmayıllı Gren House </h5>
             <br />
             <Link to="/" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
           </div>
@@ -139,9 +144,9 @@ const Layiheleresas = () => {
           </div>
           <div className="col-xl-4">
           <div class="card">
-          <img src="https://famgroupconstruction.az/uploads/posts/2021-07/1627027789_1111111111.png" class="card-img-top" alt="..."/>
+          <img src={Photomuhafize} class="card-img-top" alt="..."/>
           <div class="card-body">
-            <h5 class="card-title"> </h5>
+            <h5 class="card-title"> NORM Mühafizə köşkü </h5>
             <br />
             <Link to="/" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
           </div>
@@ -149,9 +154,9 @@ const Layiheleresas = () => {
           </div>
           <div className="col-xl-4">
           <div class="card">
-          <img src="https://famgroupconstruction.az/uploads/posts/2021-07/1627027789_1111111111.png" class="card-img-top" alt="..."/>
+          <img src={Photoqusarhub} class="card-img-top" alt="..."/>
           <div class="card-body">
-            <h5 class="card-title"> </h5>
+            <h5 class="card-title"> Qusar HUB </h5>
             <br />
             <Link to="/" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
           </div>
