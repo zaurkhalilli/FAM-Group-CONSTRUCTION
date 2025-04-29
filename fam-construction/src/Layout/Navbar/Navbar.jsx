@@ -49,7 +49,7 @@ const Navbar = () => {
                               <Link to="/haqqimizda/tarixce">Tarixçə</Link>
                               <Link to="/haqqimizda/rehberlik">Rəhbərlik</Link>
                               <Link to="/lisenziyalar">Lisenziyalar</Link>
-                              <Link to="/uygunluq">Uyğunluq</Link>
+                              <Link to="/">Uyğunluq</Link>
                             </div>
                           </div>
                           </div>
