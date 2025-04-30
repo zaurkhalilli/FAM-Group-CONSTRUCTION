@@ -6,7 +6,7 @@ const Agdammain = () => {
   return (
     <div id='Agdam'>
       <div className="agdamtop">
-     <img src="https://famgroupconstruction.az/templates/az/images/services-cat.jpg" alt="" />
+     <img src="https://famgroupconstruction.az/uploads/posts/2023-07/1690635568_q2.jpg" alt="" />
      </div>
      <div className="container">
      <Link to="/layiheler" class="btn"> <BsBoxArrowLeft />   GERI DÖN</Link>

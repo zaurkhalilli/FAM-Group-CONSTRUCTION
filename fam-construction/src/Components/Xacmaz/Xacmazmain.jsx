@@ -6,7 +6,7 @@ const Xacmazmain = () => {
   return (
     <div id='Xacmaz'>
       <div className="xacmaztop">
-     <img src="https://famgroupconstruction.az/templates/az/images/services-cat.jpg" alt="" />
+     <img src="https://famgroupconstruction.az/uploads/posts/2021-07/1627029599_11.jpg" alt="" />
      </div>
      <div className="container">
      <Link to="/layiheler" class="btn"> <BsBoxArrowLeft />   GERI DÖN</Link>

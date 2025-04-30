@@ -6,7 +6,7 @@ const Seyidehmedlimain = () => {
   return (
      <div id='Seyidehmedli'>
          <div className="seyidehmedlitop">
-        <img src="https://famgroupconstruction.az/templates/az/images/services-cat.jpg" alt="" />
+        <img src="https://famgroupconstruction.az/uploads/posts/2023-07/1690654975_3.jpg" alt="" />
         </div>
         <div className="container">
         <Link to="/layiheler" class="btn"> <BsBoxArrowLeft />   GERI DÖN</Link>
