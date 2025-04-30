@@ -13,7 +13,6 @@ const Bakusamaxi1 = () => {
     <div id='bakusamaxi'>
            <div className="bakusamaxitop">
      <img src="https://famgroupconstruction.az/templates/az/images/services-cat.jpg" alt="" />
-      <p>Bakı - Şamaxı yolu</p>
      </div>
      <div className="container">
      <Link to="/layiheler" class="btn"> <BsBoxArrowLeft />   GERI DÖN</Link>

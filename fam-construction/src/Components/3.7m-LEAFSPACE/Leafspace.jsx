@@ -14,7 +14,6 @@ const Leafspace = () => {
     <div id='leafspace'>
        <div className="leafspacetop">
      <img src="https://famgroupconstruction.az/templates/az/images/services-cat.jpg" alt="" />
-      <p>3.7 metrlik LeafSpace </p>
      </div>
      <div className="container">
      <Link to="/layiheler" class="btn"> <BsBoxArrowLeft />   GERI DÖN</Link>

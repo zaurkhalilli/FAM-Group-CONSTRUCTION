@@ -1,23 +1,12 @@
 #leafspace{
+    background-color: #e4e4e4;
     .leafspacetop{
      position: relative;
      img{
          width: 100%;
          position: relative;
      }
-     p{
-         position: absolute;
-         left: 10px;
-         bottom: 15px;
-         color: white;
-         font-size: 22px;
-         box-sizing: border-box;
-         font-weight: 640;
-         background-color: rgba(0, 0, 0, 0.822);
-         padding: 7px;
-         border-radius: 5px;
-         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); 
-     }
+    
     }
     .container{
      padding-top: 40px;

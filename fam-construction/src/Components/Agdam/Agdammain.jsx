@@ -7,7 +7,6 @@ const Agdammain = () => {
     <div id='Agdam'>
       <div className="agdamtop">
      <img src="https://famgroupconstruction.az/templates/az/images/services-cat.jpg" alt="" />
-      <p>Ağdam rayonu Şıxbabalı kəndində inşaa etdiyimiz 60 metrəlik Ötürücü Baza Stansiyasiyası</p>
      </div>
      <div className="container">
      <Link to="/layiheler" class="btn"> <BsBoxArrowLeft />   GERI DÖN</Link>

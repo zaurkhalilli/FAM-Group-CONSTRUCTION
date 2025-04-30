@@ -7,7 +7,6 @@ const Fizulimain = () => {
     <div id='Fizuli'>
       <div className="fizulitop">
      <img src="https://famgroupconstruction.az/templates/az/images/services-cat.jpg" alt="" />
-      <p>Fizuli rayonu Zobucuq 4 qəsəbəsindəki 50 metrəlik ötürücü baza stansiyasının inşası</p>
      </div>
      <div className="container">
      <Link to="/layiheler" class="btn"> <BsBoxArrowLeft />   GERI DÖN</Link>

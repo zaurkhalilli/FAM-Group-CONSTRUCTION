@@ -7,7 +7,6 @@ const Xacmazmain = () => {
     <div id='Xacmaz'>
       <div className="xacmaztop">
      <img src="https://famgroupconstruction.az/templates/az/images/services-cat.jpg" alt="" />
-      <p>Xaçmaz Elektrik Stansiyası</p>
      </div>
      <div className="container">
      <Link to="/layiheler" class="btn"> <BsBoxArrowLeft />   GERI DÖN</Link>

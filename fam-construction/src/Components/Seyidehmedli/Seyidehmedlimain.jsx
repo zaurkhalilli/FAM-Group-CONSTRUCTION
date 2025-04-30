@@ -7,7 +7,6 @@ const Seyidehmedlimain = () => {
      <div id='Seyidehmedli'>
          <div className="seyidehmedlitop">
         <img src="https://famgroupconstruction.az/templates/az/images/services-cat.jpg" alt="" />
-         <p>Fizuli rayonu SeyyidƏhmədli kəndində inşaa etdiyimiz 60 metrəlik Ötürüçü baza stansiyası</p>
         </div>
         <div className="container">
         <Link to="/layiheler" class="btn"> <BsBoxArrowLeft />   GERI DÖN</Link>

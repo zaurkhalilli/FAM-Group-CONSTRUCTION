@@ -7,7 +7,6 @@ const Siyezenmain = () => {
     <div id='Siyezen'>
       <div className="siyezentop">
      <img src="https://famgroupconstruction.az/templates/az/images/services-cat.jpg" alt="" />
-      <p>Siyəzən rayonu ərazisində 30 metrəlik Ötürücü baza stansiyasının inşaası</p>
      </div>
      <div className="container">
      <Link to="/layiheler" class="btn"> <BsBoxArrowLeft />   GERI DÖN</Link>

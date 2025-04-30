@@ -7,7 +7,6 @@ const Qusarmain = () => {
     <div id='Qusar'>
       <div className="qusartop">
      <img src="https://famgroupconstruction.az/templates/az/images/services-cat.jpg" alt="" />
-      <p>Qusar şəhərində inşaa etdiyimiz 50 metrəlik Ötürücü Baza Stansiyası</p>
      </div>
      <div className="container">
      <Link to="/layiheler" class="btn"> <BsBoxArrowLeft />   GERI DÖN</Link>
