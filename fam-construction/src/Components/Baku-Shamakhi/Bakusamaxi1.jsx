@@ -11,7 +11,7 @@ import Photobs6 from '../Baku-Shamakhi/baki-samaxi6.jpeg'
 const Bakusamaxi1 = () => {
   return (
     <div id='bakusamaxi'>
-           <div className="bakusamaxitop">
+      <div className="bakusamaxitop">
      <img src={Photobs4} alt="" />
      </div>
      <div className="container">
