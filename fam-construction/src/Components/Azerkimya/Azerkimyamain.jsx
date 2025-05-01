@@ -14,7 +14,7 @@ const Azerkimyamain = () => {
          <div className="row g-4">
            <h4>Azərkimya Modernləşdirmə</h4>
            <div className="col-xl-3">
-           <img src="	https://famgroupconstruction.az/uploads/posts/2021-07/1627027809_1.jpg" alt="" />
+           <img src="https://famgroupconstruction.az/uploads/posts/2021-07/1627027809_1.jpg" alt="" />
            </div>
            <div className="col-xl-3">
            <img src="https://famgroupconstruction.az/uploads/posts/2021-07/1627027816_2.jpg" alt="" />

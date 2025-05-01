@@ -12,7 +12,7 @@ const Bakusamaxi1 = () => {
   return (
     <div id='bakusamaxi'>
            <div className="bakusamaxitop">
-     <img src="https://famgroupconstruction.az/templates/az/images/services-cat.jpg" alt="" />
+     <img src={Photobs4} alt="" />
      </div>
      <div className="container">
      <Link to="/layiheler" class="btn"> <BsBoxArrowLeft />   GERI DÖN</Link>
