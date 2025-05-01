@@ -1,8 +1,11 @@
 #lisenziyalar{
+    background-color: #e4e4e4;
     .lisenziyalartop{
         position: relative;
         img{
             width: 100%;
+            height: 350px;
+            object-fit: cover;
             position: relative;
         }
        
@@ -15,5 +18,13 @@
        .lisenziyalaresas{
         padding-top: 50px;
         padding-bottom: 50px;
+        h2{
+            padding-left: 40px;
+            font-weight: 650;
+        }
+       }
+       p{
+        font-size: 1.345rem;
+        font-weight: 640;
        }
 }
