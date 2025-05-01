@@ -1,9 +1,32 @@
 import React from 'react'
 import '../FizuliCuvarlı/Fizulicuvarlimain.scss'
+import { Link } from 'react-router-dom';
+import { BsBoxArrowLeft } from "react-icons/bs";
+import Photofzc from '../FizuliCuvarlı/fizulicuvarli1.jpeg'
+import Photofzc2 from '../FizuliCuvarlı/fizulicuvarli2.jpeg'
+import Photofzc3 from '../FizuliCuvarlı/fizulicuvarli3.jpeg'
 const Fizulicuvarlimain = () => {
   return (
     <div id='fizulicuvarli'>
-      asda
+        <div className="fizulicuvarlitop">
+           <img src={Photofzc3} alt="" />
+           </div>
+            <div className="container">
+                <Link to="/layiheler" class="btn"> <BsBoxArrowLeft />   GERI DÖN</Link>
+                <hr />
+                 <div className="row g-4">
+                   <h4>Engixaran Village </h4>
+                   <div className="col-xl-3">
+                   <img src={Photofzc} alt="FAM-Construction-Engixaran"/>
+                   </div>
+                   <div className="col-xl-3">
+                   <img src={Photofzc2} alt="FAM-Construction-Engixaran"/>
+                   </div>
+                   <div className="col-xl-3">
+                   <img src={Photofzc3} alt="FAM-Construction-Engixaran"/>
+                   </div>
+                 </div>
+                </div>
     </div>
   )
 }
