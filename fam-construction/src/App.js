@@ -23,6 +23,7 @@ import Bakisamaxi from './Pages/BakiSamaxi/Bakisamaxi';
 import Engixaran from './Pages/Engixaran/Engixaran';
 import Fizulicuvarli from './Pages/Fizuli-Cuvarli/Fizulicuvarli';
 import Ismayilligrenhouse from './Pages/Ismayilli-gren-house/Ismayilligrenhouse';
+import Norm from './Pages/Norm/Norm';
 const App = () => {
 return (
   <div>
@@ -49,8 +50,8 @@ return (
         <Route index path='/engixaran' element={<Engixaran/>} />
         <Route index path='/fizulicuvarli' element={<Fizulicuvarli/>} />
         <Route index path='/ismayilli/gren-house' element={<Ismayilligrenhouse/>} />
-        <Route index path='/lisenziyalar' element={<Lisenziyalar/>} />
-        <Route index path='/lisenziyalar' element={<Lisenziyalar/>} />
+        <Route index path='/norm' element={<Norm/>} />
+        <Route index path='/qusarhub' element={<Lisenziyalar/>} />
       </Routes>
     </Layout> 
     </BrowserRouter>
