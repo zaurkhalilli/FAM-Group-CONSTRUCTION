@@ -3,7 +3,7 @@ import  '../LayiheEsas/Layiheesas.scss'
 import { Link } from 'react-router-dom';
 import Photoleaf from '../3.7m-LEAFSPACE/leafspace1.jpeg'
 import Photobs from '../Baku-Shamakhi/baki-samaxi1.jpeg'
-import Photoengixaran from '../Engixaran vilage/engixaran1.jpeg'
+import Photoengixaran from '../Engixaran-vilage/engixaran1.jpeg'
 import Photocuvarli from '../Fizuli Cuvarlı/fizulicuvarli3.jpeg'
 import Photogreenhouse from '../Ismayılı GREN HOUSE/Greenhouse1.jpeg'
 import Photomuhafize from '../NORM MUHAFIZƏ KÖŞKÜ/norm1.jpeg'

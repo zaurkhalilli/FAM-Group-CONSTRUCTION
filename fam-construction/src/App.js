@@ -20,6 +20,7 @@ import ScrollToTop from './ScrollToTop';
 import Lisenziyalar from './Pages/Lisenziyalar/Lisenziyalar';
 import Leafspace1 from './Pages/LeafSpace/Leafspace1';
 import Bakisamaxi from './Pages/BakiSamaxi/Bakisamaxi';
+import Engixaran from './Pages/Engixaran/Engixaran';
 const App = () => {
 return (
   <div>
@@ -43,7 +44,7 @@ return (
         <Route index path='/lisenziyalar' element={<Lisenziyalar/>} />
         <Route index path='/leafspace' element={<Leafspace1/>} />
         <Route index path='/baki-samaxi' element={<Bakisamaxi/>} />
-        <Route index path='/lisenziyalar' element={<Lisenziyalar/>} />
+        <Route index path='/engixaran' element={<Engixaran/>} />
         <Route index path='/lisenziyalar' element={<Lisenziyalar/>} />
         <Route index path='/lisenziyalar' element={<Lisenziyalar/>} />
         <Route index path='/lisenziyalar' element={<Lisenziyalar/>} />
