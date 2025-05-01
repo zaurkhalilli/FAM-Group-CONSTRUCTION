@@ -9,21 +9,21 @@ const Fizulicuvarlimain = () => {
   return (
     <div id='fizulicuvarli'>
         <div className="fizulicuvarlitop">
-           <img src={Photofzc3} alt="" />
+           <img src={Photofzc3} alt="FAM-Construction-Fizuli-Cuvarli" />
            </div>
             <div className="container">
                 <Link to="/layiheler" class="btn"> <BsBoxArrowLeft />   GERI DÖN</Link>
                 <hr />
                  <div className="row g-4">
-                   <h4>Engixaran Village </h4>
+                   <h4>Fizuli Cuvarlı </h4>
                    <div className="col-xl-3">
-                   <img src={Photofzc} alt="FAM-Construction-Engixaran"/>
+                   <img src={Photofzc} alt="FAM-Construction-Fizuli-Cuvarli"/>
                    </div>
                    <div className="col-xl-3">
-                   <img src={Photofzc2} alt="FAM-Construction-Engixaran"/>
+                   <img src={Photofzc2} alt="FAM-Construction-Fizuli-Cuvarli"/>
                    </div>
                    <div className="col-xl-3">
-                   <img src={Photofzc3} alt="FAM-Construction-Engixaran"/>
+                   <img src={Photofzc3} alt="FAM-Construction-Fizuli-Cuvarli"/>
                    </div>
                  </div>
                 </div>

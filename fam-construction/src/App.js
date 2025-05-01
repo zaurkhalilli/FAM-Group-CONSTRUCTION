@@ -22,6 +22,7 @@ import Leafspace1 from './Pages/LeafSpace/Leafspace1';
 import Bakisamaxi from './Pages/BakiSamaxi/Bakisamaxi';
 import Engixaran from './Pages/Engixaran/Engixaran';
 import Fizulicuvarli from './Pages/Fizuli-Cuvarli/Fizulicuvarli';
+import Ismayilligrenhouse from './Pages/Ismayilli-gren-house/Ismayilligrenhouse';
 const App = () => {
 return (
   <div>
@@ -47,7 +48,7 @@ return (
         <Route index path='/baki-samaxi' element={<Bakisamaxi/>} />
         <Route index path='/engixaran' element={<Engixaran/>} />
         <Route index path='/fizulicuvarli' element={<Fizulicuvarli/>} />
-        <Route index path='/lisenziyalar' element={<Lisenziyalar/>} />
+        <Route index path='/ismayilli/gren-house' element={<Ismayilligrenhouse/>} />
         <Route index path='/lisenziyalar' element={<Lisenziyalar/>} />
         <Route index path='/lisenziyalar' element={<Lisenziyalar/>} />
       </Routes>

@@ -11,7 +11,7 @@ const Engixaranmain = () => {
   return (
     <div id='engixaran'>
       <div className="engixarantop">
-     <img src={Photoeng2} alt="" />
+     <img src={Photoeng2} alt="FAM-Construction-Engixaran" />
      </div>
       <div className="container">
           <Link to="/layiheler" class="btn"> <BsBoxArrowLeft />   GERI DÖN</Link>
