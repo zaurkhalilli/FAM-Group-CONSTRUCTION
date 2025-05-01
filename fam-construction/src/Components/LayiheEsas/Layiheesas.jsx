@@ -117,7 +117,7 @@ const Layiheleresas = () => {
           <div class="card-body">
             <h5 class="card-title"> Engixaran Village </h5>
             <br />
-            <Link to="/" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
+            <Link to="/engixaran" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
           </div>
         </div>
           </div>
@@ -127,7 +127,7 @@ const Layiheleresas = () => {
           <div class="card-body">
             <h5 class="card-title"> Fizuli Cuvarlı</h5>
             <br />
-            <Link to="/" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
+            <Link to="/fizulicuvarli" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
           </div>
         </div>
           </div>
@@ -137,7 +137,7 @@ const Layiheleresas = () => {
           <div class="card-body">
             <h5 class="card-title"> İsmayıllı Gren House </h5>
             <br />
-            <Link to="/" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
+            <Link to="/ismayilli" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
           </div>
         </div>
           </div>
@@ -147,7 +147,7 @@ const Layiheleresas = () => {
           <div class="card-body">
             <h5 class="card-title"> NORM Mühafizə köşkü </h5>
             <br />
-            <Link to="/" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
+            <Link to="/norm" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
           </div>
         </div>
           </div>
@@ -157,7 +157,7 @@ const Layiheleresas = () => {
           <div class="card-body">
             <h5 class="card-title"> Qusar HUB </h5>
             <br />
-            <Link to="/" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
+            <Link to="/qusarhub" class="btn btn-primary">ƏTRAFLI MƏLUMAT</Link>   
           </div>
         </div>
           </div>
