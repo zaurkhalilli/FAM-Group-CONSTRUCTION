@@ -5,7 +5,7 @@ import Photoleaf from '../3.7m-LEAFSPACE/leafspace1.jpeg'
 import Photobs from '../Baku-Shamakhi/baki-samaxi1.jpeg'
 import Photoengixaran from '../Engixaran-vilage/engixaran1.jpeg'
 import Photocuvarli from '../FizuliCuvarlı/fizulicuvarli3.jpeg'
-import Photogreenhouse from '../Ismayılı-GREN-HOUSE/Greenhouse1.jpeg'
+import Photogreenhouse from '../İsmayilli-GREN-HOUSE/Greenhouse1.jpeg'
 import Photomuhafize from '../NORM MUHAFIZƏ KÖŞKÜ/norm1.jpeg'
 import Photoqusarhub from '../Qusar HUB/qusar (6).jpeg'
 const Layiheleresas = () => {
