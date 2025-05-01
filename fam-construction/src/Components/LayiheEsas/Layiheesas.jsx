@@ -7,7 +7,7 @@ import Photoengixaran from '../Engixaran-vilage/engixaran1.jpeg'
 import Photocuvarli from '../FizuliCuvarlı/fizulicuvarli3.jpeg'
 import Photogreenhouse from '../İsmayilli-GREN-HOUSE/Greenhouse1.jpeg'
 import Photomuhafize from '../NORM-MUHAFIZƏ-KÖŞKÜ/norm1.jpeg'
-import Photoqusarhub from '../Qusar HUB/qusar (6).jpeg'
+import Photoqusarhub from '../Qusar-HUB/qusar (6).jpeg'
 const Layiheleresas = () => {
   return (
     <div id='layiheesas'>
