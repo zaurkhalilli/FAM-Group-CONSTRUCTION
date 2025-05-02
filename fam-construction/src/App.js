@@ -26,6 +26,7 @@ import Ismayilligrenhouse from './Pages/Ismayilli-gren-house/Ismayilligrenhouse'
 import Norm from './Pages/Norm/Norm';
 import Qusarhub from './Pages/QusarHub/Qusarhub';
 import Tarix from './Pages/Tarix/Tarix';
+import Rehberlik from './Pages/Rehberlik/Rehberlik';
 const App = () => {
 return (
   <div>
@@ -55,7 +56,7 @@ return (
         <Route index path='/norm' element={<Norm/>} />
         <Route index path='/qusarhub' element={<Qusarhub/>} />
         <Route index path='/tariximiz' element={<Tarix/>} />
-        <Route index path='/qusarhub' element={<Qusarhub/>} />
+        <Route index path='/rehberlik' element={<Rehberlik/>} />
         <Route index path='/qusarhub' element={<Qusarhub/>} />
       </Routes>
     </Layout> 
