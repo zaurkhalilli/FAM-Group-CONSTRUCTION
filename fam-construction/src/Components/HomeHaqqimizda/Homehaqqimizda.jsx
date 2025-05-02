@@ -1,12 +1,12 @@
 import React from 'react'
-import styled from '../HomeHaqqimizda/Homehaqqimizda.scss'
+import '../HomeHaqqimizda/Homehaqqimizda.scss'
 import { Link } from 'react-router-dom';
 const Homehaqqimizda = () => {
   return (
     <div id='homehaqqimizda'>
       <h2>HAQQIMIZDA</h2>
       <div className="container">
-        <div className="row g-3">
+        <div className="row g-1">
             <div className="col-xl-6">
            <div className="imgleft">
            <img src="https://famgroupconstruction.az/templates/az/images/about.png" alt="" />

@@ -38,7 +38,7 @@ const Lisenziyalarmain = () => {
                 <div className="container">
                   <div className="row g-3">
                     <div className="col-xl-12">
-                    <p>15 Aprel 2021 - ci ildə Azərbaycan Respublikası İqtisadiyyat Nazirliyi tərəfindən , maye və təbii qaz təsərrüfatı obyektlərinin quraşdırılmasının həyata keçirilməsi haqqında icazə verilən lisenziya.</p>
+                    <p>2. 15 Aprel 2021 - ci ildə Azərbaycan Respublikası İqtisadiyyat Nazirliyi tərəfindən , maye və təbii qaz təsərrüfatı obyektlərinin quraşdırılmasının həyata keçirilməsi haqqında icazə verilən lisenziya.</p>
                     </div>
                     <div className="col-xl-4">
                     <img src={Photo4} alt="" />

@@ -18,7 +18,7 @@ const Navbar = () => {
 
   return (
     <>
-      {/* ==== Desktop Navbar ==== */}
+      {/*Desktop Navbar*/}
       <div id='navbar'>
         <div className="navtop">
           <div className="navleft">
@@ -52,7 +52,7 @@ const Navbar = () => {
                       <div className="nav-drop nav-drop2">
                         <Link to="/haqqimizda">HAQQIMIZDA</Link>
                         <div className="nav__dropdown">
-                          <Link to="/haqqimizda/tarixce">Tarixçə</Link>
+                          <Link to="/haqqimizda/tarixce">Tariximiz</Link>
                           <Link to="/haqqimizda/rehberlik">Rəhbərlik</Link>
                           <Link to="/lisenziyalar">Lisenziyalar</Link>
                           <Link to="/">Uyğunluq</Link>
@@ -71,7 +71,7 @@ const Navbar = () => {
         </div>
       </div>
 
-      {/* ==== Tablet Navbar ==== */}
+      {/* Tablet Navbar */}
       <div className="navbar__tablet">
         <div className="navbar__tablet-menu">
           <div className="navbarlogo">
@@ -81,7 +81,7 @@ const Navbar = () => {
           <div className="tablet-dropdown">
             <Link to="/haqqimizda">HAQQIMIZDA</Link>
             <div className="tablet-dropdown-menu">
-              <Link to="/haqqimizda/tarixce">Tarixçə</Link>
+              <Link to="/haqqimizda/tarixce">Tariximiz</Link>
               <Link to="/haqqimizda/rehberlik">Rəhbərlik</Link>
               <Link to="/lisenziyalar">Lisenziyalar</Link>
               <Link to="/">Uyğunluq</Link>
@@ -94,7 +94,7 @@ const Navbar = () => {
         </div>
       </div>
 
-      {/* ==== Mobil Navbar ==== */}
+      {/* Mobil Navbar */}
       <div className="navbar__mobile">
         <div className="navbar__burger" onClick={toggleMenu}>
           <div className="navbarlogo">
@@ -106,7 +106,7 @@ const Navbar = () => {
           <div className="navbar__mobile-menu">
             <Link to="/">ANA SƏHİFƏ</Link>
             <Link to="/haqqimizda">HAQQIMIZDA</Link>
-            <Link to="/haqqimizda/tarixce">TARİX</Link>
+            <Link to="/haqqimizda/tarixce">TARİXİMİZ</Link>
             <Link to="/haqqimizda/rehberlik">RƏHBƏRLİK</Link>
             <Link to="/lisenziyalar">LİSENZİYALAR</Link>
             <Link to="/">UYĞUNLUQ</Link>
