@@ -52,10 +52,10 @@ const Navbar = () => {
                       <div className="nav-drop nav-drop2">
                         <Link to="/haqqimizda">HAQQIMIZDA</Link>
                         <div className="nav__dropdown">
-                          <Link to="/haqqimizda/tarixce">Tariximiz</Link>
-                          <Link to="/haqqimizda/rehberlik">Rəhbərlik</Link>
+                          <Link to="/tariximiz">Tariximiz</Link>
+                          <Link to="/rehberlik">Rəhbərlik</Link>
                           <Link to="/lisenziyalar">Lisenziyalar</Link>
-                          <Link to="/">Uyğunluq</Link>
+                          <Link to="/ethics">Uyğunluq</Link>
                         </div>
                       </div>
                     </div>

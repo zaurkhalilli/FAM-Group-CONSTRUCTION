@@ -1,0 +1,25 @@
+#tariximiz{
+    background-color: #e4e4e4;
+    .tariximiztop{
+        img{
+            width: 100%;
+            height: 350px;
+            object-fit: cover;
+        }
+
+    }
+    .tariximizmain{
+        padding-top: 70px;
+        padding-bottom: 60px;
+        h2{
+            text-align: center;
+            padding-bottom: 40px;
+        }
+        p{
+            font-weight: 640;
+        }
+        img{
+            width: 100%;
+        }
+    }
+}
