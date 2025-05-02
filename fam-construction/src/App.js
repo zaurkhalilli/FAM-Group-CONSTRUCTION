@@ -27,6 +27,7 @@ import Norm from './Pages/Norm/Norm';
 import Qusarhub from './Pages/QusarHub/Qusarhub';
 import Tarix from './Pages/Tarix/Tarix';
 import Rehberlik from './Pages/Rehberlik/Rehberlik';
+import Uygunluq from './Pages/Uygunluq/Uygunluq';
 const App = () => {
 return (
   <div>
@@ -57,7 +58,7 @@ return (
         <Route index path='/qusarhub' element={<Qusarhub/>} />
         <Route index path='/tariximiz' element={<Tarix/>} />
         <Route index path='/rehberlik' element={<Rehberlik/>} />
-        <Route index path='/qusarhub' element={<Qusarhub/>} />
+        <Route index path='/ethics' element={<Uygunluq/>} />
       </Routes>
     </Layout> 
     </BrowserRouter>
