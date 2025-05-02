@@ -28,6 +28,7 @@ import Qusarhub from './Pages/QusarHub/Qusarhub';
 import Tarix from './Pages/Tarix/Tarix';
 import Rehberlik from './Pages/Rehberlik/Rehberlik';
 import Uygunluq from './Pages/Uygunluq/Uygunluq';
+import Karyera from './Pages/Karyera/Karyera';
 const App = () => {
 return (
   <div>
@@ -59,6 +60,7 @@ return (
         <Route index path='/tariximiz' element={<Tarix/>} />
         <Route index path='/rehberlik' element={<Rehberlik/>} />
         <Route index path='/ethics' element={<Uygunluq/>} />
+        <Route index path='/karyera' element={<Karyera/>} />
       </Routes>
     </Layout> 
     </BrowserRouter>

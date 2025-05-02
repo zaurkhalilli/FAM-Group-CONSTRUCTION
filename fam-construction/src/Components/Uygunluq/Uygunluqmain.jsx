@@ -7,7 +7,10 @@ const Uygunluqmain = () => {
             <img src="https://commercial.allianz.com/content/onemarketing/commercial/commercial/en_GB/news-and-insights/expert-risk-articles/construction-claims-trends.thumb.1280.1280.png?ck=1737991483" alt="" />
         </div>
         <div className="uygunluqmain">
+            <h2>Etika və Uyğunluq</h2>
+            <hr />  
             <div className="container">
+                <br />
                 <div className="row">
                     <div className="col-xl-4">
                         <img src="https://res.cloudinary.com/nhbcuat/image/upload/f_auto,q_auto,dpr_2.0/WebsiteImages/nhbccontentmanagementsystem/house-builder---developer/construction-quality/nhbcinspectionshoot-onsite_nhbcinspectionshoot-183_386-large.jpg" alt="" />

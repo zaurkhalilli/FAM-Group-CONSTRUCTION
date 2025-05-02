@@ -6,7 +6,7 @@ const Homehaqqimizda = () => {
     <div id='homehaqqimizda'>
       <h2>HAQQIMIZDA</h2>
       <div className="container">
-        <div className="row g-1">
+        <div className="row g-2">
             <div className="col-xl-6">
            <div className="imgleft">
            <img src="https://famgroupconstruction.az/templates/az/images/about.png" alt="" />
@@ -15,7 +15,9 @@ const Homehaqqimizda = () => {
             </div>
             <div className="col-xl-6">
            <div className="homebtn">
-           <Link to="/haqqimizda"> <button>ƏTRAFLI MƏLUMAT</button></Link>
+            <h5>Ətraflı məlumat almaq üçün aşağıdakı butona klik edin : </h5>
+            <br />
+           <Link to="/haqqimizda"> <button>Biz Kimik ?</button></Link>
            </div>
             </div>
         </div>

@@ -55,7 +55,7 @@ const Navbar = () => {
                           <Link to="/tariximiz">Tariximiz</Link>
                           <Link to="/rehberlik">Rəhbərlik</Link>
                           <Link to="/lisenziyalar">Lisenziyalar</Link>
-                          <Link to="/ethics">Uyğunluq</Link>
+                          <Link to="/ethics">Etik Davranış</Link>
                         </div>
                       </div>
                     </div>
@@ -84,7 +84,7 @@ const Navbar = () => {
             <Link to="/tariximiz">Tariximiz</Link>
             <Link to="/rehberlik">Rəhbərlik</Link>
             <Link to="/lisenziyalar">Lisenziyalar</Link>
-            <Link to="/ethics">Uyğunluq</Link>
+            <Link to="/ethics">Etik Davranış</Link>
             </div>
           </div>
           <Link to="/xidmetler">XİDMƏTLƏR</Link>
@@ -109,7 +109,7 @@ const Navbar = () => {
             <Link to="/tariximiz">TARİXİMİZ</Link>
             <Link to="/rehberlik">RƏHBƏRLİK</Link>
             <Link to="/lisenziyalar">LİSENZİYALAR</Link>
-            <Link to="/ethics">UYĞUNLUQ</Link>
+            <Link to="/ethics">ETİK DAVRANIŞ</Link>
             <Link to="/xidmetler">XİDMƏTLƏR</Link>
             <Link to="/layiheler">LAYİHƏLƏR</Link>
             <Link to="/elaqe">ƏLAQƏ</Link>
