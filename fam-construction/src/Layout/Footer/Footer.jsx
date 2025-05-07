@@ -57,7 +57,7 @@ const Footer = () => {
       <span>
       Copyright © 2025
       <br />
-      FAM GROUP MEDIA. Bütün hüquqlar qorunur.
+      FAM Group Media. Bütün hüquqlar qorunur.
       </span>
       </div>
     </div>
