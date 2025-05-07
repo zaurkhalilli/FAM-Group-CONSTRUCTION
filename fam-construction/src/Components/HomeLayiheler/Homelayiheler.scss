@@ -3,14 +3,11 @@
     padding-bottom: 80px;
     background-color: #e4e4e4;
     text-align: center;
-    .container{
-        max-width: 700px;
-    }
     img{
         position: relative;
         width: 100%; 
         border-radius: 3px;
-        height: auto;
+        height: 250px;
         transition: opacity 0.4s ease;
     }
    .layihetext{
@@ -19,7 +16,7 @@
         max-width: 650px;
         position: absolute;
         color: white;
-        font-size: 15px;
+        font-size: 13.5px;
         font-weight: 640;
         background-color: rgba(0, 0, 0, 0.5);
         padding: 5px;
