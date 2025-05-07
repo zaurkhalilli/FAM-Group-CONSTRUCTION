@@ -1,7 +1,6 @@
 import React from 'react'
 import '../HomeLayiheler/Homelayiheler.scss'
 import { Link } from 'react-router-dom';
-import Photonmk from '../NORM-MUHAFIZƏ-KÖŞKÜ/norm1.jpeg'
 const Homelayiheler = () => {
   return (
     <div id='layiheler'>
