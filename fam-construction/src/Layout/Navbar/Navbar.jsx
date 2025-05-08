@@ -26,10 +26,10 @@ const Navbar = () => {
           </div>
           <div className="navright">
             <div className="list">
-              <li><Link to="/"><IoLogoFacebook size={25} /></Link></li>
-              <li><Link to="/haqqimizda"><FaSquareXTwitter size={21} /></Link></li>
-              <li><Link to="/xidmetler"><FiInstagram size={21} /></Link></li>
-              <li><Link to="/xidmetler"><FaYoutube size={24} /></Link></li>
+              <li><Link to="https://www.facebook.com/famgroupmedia/"><IoLogoFacebook size={25} /></Link></li>
+              <li><Link to="/"><FaSquareXTwitter size={21} /></Link></li>
+              <li><Link to="https://www.instagram.com/famgroupconsulting/"><FiInstagram size={21} /></Link></li>
+              <li><Link to="/"><FaYoutube size={24} /></Link></li>
             </div>
           </div>
         </div>
