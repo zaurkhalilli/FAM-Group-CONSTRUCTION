@@ -4,7 +4,7 @@ const Karyeramain = () => {
   return (
     <div id='karyera'>
       <div className="karyeratop">
-        <img src="https://muellif.publisist.az/public/images/blog/65ff15327d170.jpg" alt="" />
+        <img src="https://muellif.publisist.az/public/images/blog/65ff15327d170.jpg" alt="FAM-Group-Construction-Karyera" />
       </div>
       <div className="karyeramain">
         <div className="container">

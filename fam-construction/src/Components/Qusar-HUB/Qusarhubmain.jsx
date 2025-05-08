@@ -12,7 +12,7 @@ const Qusarhubmain = () => {
   return (
     <div id='qusarhub'>
         <div className="qusarhubtop">
-                <img src={ Photoqsh4 } alt="FAM-Construction-NORM" />
+                <img src={ Photoqsh4 } alt="FAM-Group-Construction-Qusarhub" />
                 </div>
                 <div className="container">
                     <Link to="/layiheler" class="btn"> <BsBoxArrowLeft />   GERI DÖN</Link>
@@ -20,22 +20,22 @@ const Qusarhubmain = () => {
                       <div className="row g-4">
                         <h4>Qusar HUB</h4>
                         <div className="col-xl-3">
-                        <img src={ Photoqsh} alt="FAM-Construction-Qusar-HUB"/>
+                        <img src={ Photoqsh} alt="FAM-Group-Construction-Qusarhub"/>
                         </div>
                         <div className="col-xl-3">
-                        <img src={ Photoqsh2} alt="FAM-Construction-Qusar-HUB"/>
+                        <img src={ Photoqsh2} alt="FAM-Group-Construction-Qusarhub"/>
                         </div>
                         <div className="col-xl-3">
-                        <img src={ Photoqsh3} alt="FAM-Construction-Qusar-HUB"/>
+                        <img src={ Photoqsh3} alt="FAM-Group-Construction-Qusarhub"/>
                         </div>
                         <div className="col-xl-3">
-                        <img src={ Photoqsh4} alt="FAM-Construction-Qusar-HUB"/>
+                        <img src={ Photoqsh4} alt="FAM-Group-Construction-Qusarhub"/>
                         </div>
                         <div className="col-xl-3">
-                        <img src={ Photoqsh5} alt="FAM-Construction-Qusar-HUB"/>
+                        <img src={ Photoqsh5} alt="FAM-Group-Construction-Qusarhub"/>
                         </div>
                         <div className="col-xl-3">
-                        <img src={ Photoqsh6} alt="FAM-Construction-Qusar-HUB"/>
+                        <img src={ Photoqsh6} alt="FAM-Group-Construction-Qusarhub"/>
                         </div>
                       </div>
                     </div>

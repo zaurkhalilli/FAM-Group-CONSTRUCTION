@@ -6,14 +6,14 @@ const Tariximiz = () => {
   return (
     <div id='tariximiz'>
       <div className="tariximiztop">
-        <img src={Phototarix} alt="" />
+        <img src={Phototarix} alt="FAM-Group-Construction-Tarix" />
       </div>
       <div className="tariximizmain">
         <div className="container">
             <div className="row">
                 <h2>TARİXİMİZ</h2>
                 <div className="col-xl-4">
-                    <img src={Phototarixmain} alt="" />
+                    <img src={Phototarixmain} alt="FAM-Group-Construction-Tarix" />
                 </div>
                 <div className="col-xl-8">
                     <p>“FAM Group Construction” MMC “FAM Group” ailəsinin qollarından biridir. 02.12.2019-cu il tarixində 1912020386947900 nömrəli dövlət reyestrindən çıxarış əsasında dövlət qeydiyyatına alınıb, 07.01.2020-ci il tarixindən isə fəaliyyətə başlayıb.

@@ -8,7 +8,7 @@ const Normmuhafize = () => {
   return (
     <div id='normmuhafize'>
        <div className="normtop">
-                <img src={ Photonmk } alt="FAM-Construction-NORM" />
+                <img src={ Photonmk } alt="FAM-Group-Construction-NORM" />
                 </div>
                 <div className="container">
                     <Link to="/layiheler" class="btn"> <BsBoxArrowLeft />   GERI DÖN</Link>
@@ -16,10 +16,10 @@ const Normmuhafize = () => {
                       <div className="row g-4">
                         <h4>NORM Mühafizə köşkü</h4>
                         <div className="col-xl-3">
-                        <img src={ Photonmk} alt="FAM-Construction-NORM"/>
+                        <img src={ Photonmk} alt="FAM-Group-Construction-NORM"/>
                         </div>
                         <div className="col-xl-3">
-                        <img src={ Photonmk2} alt="FAM-Construction-NORM"/>
+                        <img src={ Photonmk2} alt="FAM-Group-Construction-NORM"/>
                         </div>
                       </div>
                     </div>

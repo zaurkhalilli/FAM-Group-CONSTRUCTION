@@ -23,13 +23,13 @@ const Lisenziyalarmain = () => {
                     <p>1. 17 Fevral 2021 - ci ildə Azərbaycan Respublikası İqtisadiyyat Nazirliyi tərəfindən , tikintisinə icazə tələb olunan bina və qurğuların tikinti-quraşdırma işlərinin həyata keçirilməsinə icazə verilən lisenziya və lisenziya əlavəsi.</p>
                     </div>
                     <div className="col-xl-4">
-                    <img src={Photo3} alt="" />
+                    <img src={Photo3} alt="FAM-Group-Construction-Lisenziyalar" />
                     </div>
                     <div className="col-xl-4">
-                    <img src={Photo2} alt="" />
+                    <img src={Photo2} alt="FAM-Group-Construction-Lisenziyalar" />
                     </div>
                     <div className="col-xl-4">
-                    <img src={Photo} alt="" />
+                    <img src={Photo} alt="FAM-Group-Construction-Lisenziyalar" />
                     </div>
                   </div>
                 </div>
@@ -41,7 +41,7 @@ const Lisenziyalarmain = () => {
                     <p>2. 15 Aprel 2021 - ci ildə Azərbaycan Respublikası İqtisadiyyat Nazirliyi tərəfindən , maye və təbii qaz təsərrüfatı obyektlərinin quraşdırılmasının həyata keçirilməsi haqqında icazə verilən lisenziya.</p>
                     </div>
                     <div className="col-xl-4">
-                    <img src={Photo4} alt="" />
+                    <img src={Photo4} alt="FAM-Group-Construction-Lisenziyalar" />
                     </div>
                   </div>
                 </div>

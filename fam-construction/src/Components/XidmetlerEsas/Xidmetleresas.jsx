@@ -9,7 +9,7 @@ const Xidmetleresas = () => {
         <div className="container">
             <div className="row g-4">
                 <div className="col-xl-6">
-                <img src="https://www.cfisherconstruction.com/wp-content/uploads/2021/04/Project-Planning-Commercial-Construction-Chad-Fisher-Construction.jpg" alt="" />
+                <img src="https://www.cfisherconstruction.com/wp-content/uploads/2021/04/Project-Planning-Commercial-Construction-Chad-Fisher-Construction.jpg" alt="FAM-Group-Construction-Xidmetler" />
                 </div>
                 <div className="col-xl-6">
                 <p>Ankerlərin torpağa bərkidilməsi və binaların “torpaqda divar” üsulu ilə tikilməsi
@@ -32,10 +32,10 @@ const Xidmetleresas = () => {
                     </p>
                 </div>
                 <div className="col-xl-6">
-                    <img src="https://www.jkcement.com/wp-content/uploads/2024/05/high-angle-measuring-tools-desk-still-life-2-1024x682-jpg.webp" alt="" />
+                    <img src="https://www.jkcement.com/wp-content/uploads/2024/05/high-angle-measuring-tools-desk-still-life-2-1024x682-jpg.webp" alt="FAM-Group-Construction-Xidmetler" />
                 </div>
                 <div className="col-xl-6">
-                    <img src="https://homefirstindia.com/app/uploads/2020/09/construction-2.jpg" alt="" />
+                    <img src="https://homefirstindia.com/app/uploads/2020/09/construction-2.jpg" alt="FAM-Group-Construction-Xidmetler" />
                 </div>
                 <div className="col-xl-6">
                     <p>3.Beton və dəmir-beton konstruksiyaların quraşdırılması.
@@ -64,10 +64,10 @@ const Xidmetleresas = () => {
                         14.Su anbarları</p>
                 </div>
                 <div className="col-xl-6">
-                    <img src="https://cpe.ucdavis.edu/sites/g/files/dgvnsk15476/files/styles/sf_hero_banner_large/public/media/images/const-hero.jpg?h=bf654dbc&itok=1iECOUHR" alt="" />
+                    <img src="https://cpe.ucdavis.edu/sites/g/files/dgvnsk15476/files/styles/sf_hero_banner_large/public/media/images/const-hero.jpg?h=bf654dbc&itok=1iECOUHR" alt="FAM-Group-Construction-Xidmetler" />
                 </div>
                 <div className="col-xl-6">
-                    <img src="https://cormode.com/wp-content/uploads/2020/09/Modular-Construction-Projects.jpg" alt="" />
+                    <img src="https://cormode.com/wp-content/uploads/2020/09/Modular-Construction-Projects.jpg" alt="FAM-Group-Construction-Xidmetler" />
                 </div>
                 <div className="col-xl-6">
                     <p>15.Yol tikintisi:
@@ -95,18 +95,8 @@ const Xidmetleresas = () => {
                     21.Sənaye və mülki obyektlərin tikintisi</p>
                 </div>
                 <div className="col-xl-6">
-                    <img src="https://www.ultratechcement.com/content/ultratechcement/in/en/home/for-homebuilders/home-building-explained-single/descriptive-articles/low-cost-home-construction-techniques/_jcr_content/root/container/container_1646056284/teaser_copy_86651871.coreimg.jpeg/1711525970470/house-budget-1.jpeg" alt="" />
+                    <img src="https://www.ultratechcement.com/content/ultratechcement/in/en/home/for-homebuilders/home-building-explained-single/descriptive-articles/low-cost-home-construction-techniques/_jcr_content/root/container/container_1646056284/teaser_copy_86651871.coreimg.jpeg/1711525970470/house-budget-1.jpeg" alt="FAM-Group-Construction-Xidmetler" />
                 </div>
-                <div className="col-xl-6"></div>
-                <div className="col-xl-6"></div>
-                <div className="col-xl-6"></div>
-                <div className="col-xl-6"></div>
-                <div className="col-xl-6"></div>
-                <div className="col-xl-6"></div>
-                <div className="col-xl-6"></div>
-                <div className="col-xl-6"></div>
-                <div className="col-xl-6"></div>
-                <div className="col-xl-6"></div>
             </div>
         </div>
     </div>
