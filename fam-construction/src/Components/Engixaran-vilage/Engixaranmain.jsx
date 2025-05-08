@@ -11,7 +11,7 @@ const Engixaranmain = () => {
   return (
     <div id='engixaran'>
       <div className="engixarantop">
-     <img src={Photoeng2} alt="FAM-Construction-Engixaran" />
+     <img src={Photoeng2} alt="FAM-Group-Construction-Engixaran" />
      </div>
       <div className="container">
           <Link to="/layiheler" class="btn"> <BsBoxArrowLeft />   GERI DÖN</Link>
@@ -19,19 +19,19 @@ const Engixaranmain = () => {
            <div className="row g-4">
              <h4>Engixaran Village </h4>
              <div className="col-xl-3">
-             <img src={Photoeng} alt="FAM-Construction-Engixaran"/>
+             <img src={Photoeng} alt="FAM-Group-Construction-Engixaran"/>
              </div>
              <div className="col-xl-3">
-             <img src={Photoeng2} alt="FAM-Construction-Engixaran"/>
+             <img src={Photoeng2} alt="FAM-Group-Construction-Engixaran"/>
              </div>
              <div className="col-xl-3">
-             <img src={Photoeng3} alt="FAM-Construction-Engixaran"/>
+             <img src={Photoeng3} alt="FAM-Group-Construction-Engixaran"/>
              </div>
              <div className="col-xl-3">
-             <img src={Photoeng4} alt="FAM-Construction-Engixaran"/>
+             <img src={Photoeng4} alt="FAM-Group-Construction-Engixaran"/>
              </div>
              <div className="col-xl-3">
-             <img src={Photoeng5} alt="FAM-Construction-Engixaran"/>
+             <img src={Photoeng5} alt="FAM-Group-Construction-Engixaran"/>
              </div>
            </div>
           </div>

@@ -12,7 +12,7 @@ const Bakusamaxi1 = () => {
   return (
     <div id='bakusamaxi'>
       <div className="bakusamaxitop">
-     <img src={Photobs4} alt="" />
+     <img src={Photobs4} alt="FAM-Group-Construction-Bakı-Şamaxı" />
      </div>
      <div className="container">
      <Link to="/layiheler" class="btn"> <BsBoxArrowLeft />   GERI DÖN</Link>
@@ -20,22 +20,22 @@ const Bakusamaxi1 = () => {
       <div className="row g-4">
         <h4>Bakı - Şamaxı yolu</h4>
         <div className="col-xl-3">
-        <img src={Photobs} alt="" />
+        <img src={Photobs} alt="FAM-Group-Construction-Bakı-Şamaxı" />
         </div>
         <div className="col-xl-3">
-        <img src={Photobs2} alt="" />
+        <img src={Photobs2} alt="FAM-Group-Construction-Bakı-Şamaxı" />
         </div>
         <div className="col-xl-3">
-        <img src={Photobs3} alt="" />
+        <img src={Photobs3} alt="FAM-Group-Construction-Bakı-Şamaxı" />
         </div>
         <div className="col-xl-3">
-        <img src={Photobs4} alt="" />
+        <img src={Photobs4} alt="FAM-Group-Construction-Bakı-Şamaxı" />
         </div>
         <div className="col-xl-3">
-        <img src={Photobs5} alt="" />
+        <img src={Photobs5} alt="FAM-Group-Construction-Bakı-Şamaxı" />
         </div>
         <div className="col-xl-3">
-        <img src={Photobs6} alt="" />
+        <img src={Photobs6} alt="FAM-Group-Construction-Bakı-Şamaxı" />
         </div>
       </div>
      </div>

@@ -9,7 +9,7 @@ const Fizulicuvarlimain = () => {
   return (
     <div id='fizulicuvarli'>
         <div className="fizulicuvarlitop">
-           <img src={Photofzc3} alt="FAM-Construction-Fizuli-Cuvarli" />
+           <img src={Photofzc3} alt="FAM-Group-Construction-Fizuli-Cuvarli" />
            </div>
             <div className="container">
                 <Link to="/layiheler" class="btn"> <BsBoxArrowLeft />   GERI DÖN</Link>
@@ -17,13 +17,13 @@ const Fizulicuvarlimain = () => {
                  <div className="row g-4">
                    <h4>Fizuli Cuvarlı </h4>
                    <div className="col-xl-3">
-                   <img src={Photofzc} alt="FAM-Construction-Fizuli-Cuvarli"/>
+                   <img src={Photofzc} alt="FAM-Group-Construction-Fizuli-Cuvarli"/>
                    </div>
                    <div className="col-xl-3">
-                   <img src={Photofzc2} alt="FAM-Construction-Fizuli-Cuvarli"/>
+                   <img src={Photofzc2} alt="FAM-Group-Construction-Fizuli-Cuvarli"/>
                    </div>
                    <div className="col-xl-3">
-                   <img src={Photofzc3} alt="FAM-Construction-Fizuli-Cuvarli"/>
+                   <img src={Photofzc3} alt="FAM-Group-Construction-Fizuli-Cuvarli"/>
                    </div>
                  </div>
                 </div>
