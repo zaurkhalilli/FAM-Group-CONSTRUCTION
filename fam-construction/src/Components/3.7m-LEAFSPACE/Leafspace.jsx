@@ -13,7 +13,7 @@ const Leafspace = () => {
   return (
     <div id='leafspace'>
        <div className="leafspacetop">
-     <img src="https://famgroupconstruction.az/templates/az/images/services-cat.jpg" alt="" />
+     <img src="https://famgroupconstruction.az/templates/az/images/services-cat.jpg" alt="FAM-Group-Construction-LeafSpace" />
      </div>
      <div className="container">
      <Link to="/layiheler" class="btn"> <BsBoxArrowLeft />   GERI DÖN</Link>
@@ -21,25 +21,25 @@ const Leafspace = () => {
       <div className="row g-4">
         <h4>3.7 metrlik LeafSpace</h4>
         <div className="col-xl-3">
-        <img src={Photoleaf} alt="" />
+        <img src={Photoleaf} alt="FAM-Group-Construction-LeafSpace" />
         </div>
         <div className="col-xl-3">
-        <img src={Photoleaf2} alt="" />
+        <img src={Photoleaf2} alt="FAM-Group-Construction-LeafSpace" />
         </div>
         <div className="col-xl-3">
-        <img src={Photoleaf3} alt="" />
+        <img src={Photoleaf3} alt="FAM-Group-Construction-LeafSpace" />
         </div>
         <div className="col-xl-3">
-        <img src={Photoleaf4} alt="" />
+        <img src={Photoleaf4} alt="FAM-Group-Construction-LeafSpace" />
         </div>
         <div className="col-xl-3">
-        <img src={Photoleaf5} alt="" />
+        <img src={Photoleaf5} alt="FAM-Group-Construction-LeafSpace" />
         </div>
         <div className="col-xl-3">
-        <img src={Photoleaf6} alt="" />
+        <img src={Photoleaf6} alt="FAM-Group-Construction-LeafSpace" />
         </div>
         <div className="col-xl-3">
-        <img src={Photoleaf7} alt="" />
+        <img src={Photoleaf7} alt="FAM-Group-Construction-LeafSpace" />
         </div>
       </div>
      </div>

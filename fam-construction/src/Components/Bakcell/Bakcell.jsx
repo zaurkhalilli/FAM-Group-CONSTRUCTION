@@ -15,7 +15,7 @@ const Bakcell = () => {
   return (
     <div id='Bakcell'>
      <div className="backelltop">
-     <img src={Photobakcell1} alt="" />
+     <img src={Photobakcell1} alt="FAM-Group-Construction-Bakcell" />
      </div>
      <div className="container">
      <Link to="/layiheler" class="btn"> <BsBoxArrowLeft />   GERI DÖN</Link>
@@ -23,28 +23,28 @@ const Bakcell = () => {
       <div className="row g-4">
         <h4>Gəncə şəhərində Bakcell Müştəri xidmətləri mərkəzinin təmiri</h4>
         <div className="col-xl-3">
-        <img src={Photobakcell2} alt="FAM-Construction-Bakcell" /> 
+        <img src={Photobakcell2} alt="FAM-Group-Construction-Bakcell" /> 
         </div>
         <div className="col-xl-3">
-        <img src={Photobakcell3} alt="FAM-Construction-Bakcell" /> 
+        <img src={Photobakcell3} alt="FAM-Group-Construction-Bakcell" /> 
         </div>
         <div className="col-xl-3">
-        <img src={Photobakcell4} alt="FAM-Construction-Bakcell" /> 
+        <img src={Photobakcell4} alt="FAM-Group-Construction-Bakcell" /> 
         </div>
         <div className="col-xl-3">
-        <img src={Photobakcell5} alt="FAM-Construction-Bakcell" /> 
+        <img src={Photobakcell5} alt="FAM-Group-Construction-Bakcell" /> 
         </div>
         <div className="col-xl-3">
-        <img src={Photobakcell6} alt="FAM-Construction-Bakcell" /> 
+        <img src={Photobakcell6} alt="FAM-Group-Construction-Bakcell" /> 
         </div>
         <div className="col-xl-3">
-        <img src={Photobakcell7} alt="FAM-Construction-Bakcell" /> 
+        <img src={Photobakcell7} alt="FAM-Group-Construction-Bakcell" /> 
         </div>
         <div className="col-xl-3">
-        <img src={Photobakcell8} alt="FAM-Construction-Bakcell" /> 
+        <img src={Photobakcell8} alt="FAM-Group-Construction-Bakcell" /> 
         </div>
         <div className="col-xl-3">
-        <img src={Photobakcell9} alt="FAM-Construction-Bakcell" /> 
+        <img src={Photobakcell9} alt="FAM-Group-Construction-Bakcell" /> 
         </div>
       </div>
      </div>
