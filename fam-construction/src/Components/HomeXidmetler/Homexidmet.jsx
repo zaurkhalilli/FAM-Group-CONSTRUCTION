@@ -9,16 +9,16 @@ const Homexidmet = () => {
       <div className="container">
         <div className="row g-4">
             <div className="col-xl-3">
-            <Link to="/xidmetler"><img src="https://famgroupconstruction.az/uploads/posts/2021-07/medium/1626982616_services1.png" alt="" /></Link>
+            <Link to="/xidmetler"><img src="https://famgroupconstruction.az/uploads/posts/2021-07/medium/1626982616_services1.png" alt="FAM-Group-Construction-Xidmetler" /></Link>
             </div>
             <div className="col-xl-3">
-            <Link to="/xidmetler"><img src="	https://famgroupconstruction.az/uploads/posts/2021-07/medium/1626982728_services2.png" alt="" /></Link>
+            <Link to="/xidmetler"><img src="	https://famgroupconstruction.az/uploads/posts/2021-07/medium/1626982728_services2.png" alt="FAM-Group-Construction-Xidmetler" /></Link>
             </div>
             <div className="col-xl-3">
-            <Link to="/xidmetler"><img src="	https://famgroupconstruction.az/uploads/posts/2021-07/medium/1626982813_services3.png" alt="" /></Link>
+            <Link to="/xidmetler"><img src="	https://famgroupconstruction.az/uploads/posts/2021-07/medium/1626982813_services3.png" alt="FAM-Group-Construction-Xidmetler" /></Link>
             </div>
             <div className="col-xl-3">
-            <Link to="/xidmetler"><img src="https://famgroupconstruction.az/uploads/posts/2021-07/medium/1626982893_services4.png" alt="" /></Link>
+            <Link to="/xidmetler"><img src="https://famgroupconstruction.az/uploads/posts/2021-07/medium/1626982893_services4.png" alt="FAM-Group-Construction-Xidmetler" /></Link>
             </div>
         </div>
       </div>

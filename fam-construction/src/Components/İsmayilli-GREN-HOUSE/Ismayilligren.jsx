@@ -9,7 +9,7 @@ const Ismayilligren = () => {
   return (
     <div id='ismayilligrentop'>
         <div className="ismayillitop">
-          <img src={ Photoigh2} alt="FAM-Construction-Ismayilli" />
+          <img src={ Photoigh2} alt="FAM-Group-Construction-Ismayilli" />
           </div>
           <div className="container">
               <Link to="/layiheler" class="btn"> <BsBoxArrowLeft />   GERI DÖN</Link>
@@ -17,13 +17,13 @@ const Ismayilligren = () => {
                 <div className="row g-4">
                   <h4>Ismayıllı Gren House </h4>
                   <div className="col-xl-3">
-                  <img src={ Photoigh} alt="FAM-Construction-Ismayilli"/>
+                  <img src={ Photoigh} alt="FAM-Group-Construction-Ismayilli"/>
                   </div>
                   <div className="col-xl-3">
-                  <img src={ Photoigh2} alt="FAM-Construction-Ismayilli"/>
+                  <img src={ Photoigh2} alt="FAM-Group-Construction-Ismayilli"/>
                   </div>
                   <div className="col-xl-3">
-                  <img src={ Photoigh3} alt="FAM-Construction-Ismayilli"/>
+                  <img src={ Photoigh3} alt="FAM-Group-Construction-Ismayilli"/>
                   </div>
                 </div>
               </div>

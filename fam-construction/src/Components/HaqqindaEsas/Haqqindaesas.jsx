@@ -7,7 +7,7 @@ const Haqqindaesas = () => {
         <h2>HAQQIMIZDA</h2>
         <div className="row g-3">
           <div className="col-xl-6">
-          <img src="https://edc.nyc/sites/default/files/styles/16x9_md/public/2024-03/NYCEDC-Circular-Construction-Guidelines-Header-Image.jpg?h=78aab1d8&itok=63UlXj8F" alt="" />
+          <img src="https://edc.nyc/sites/default/files/styles/16x9_md/public/2024-03/NYCEDC-Circular-Construction-Guidelines-Header-Image.jpg?h=78aab1d8&itok=63UlXj8F" alt="FAM-Group-Construction-Haqqimizda" />
           </div>
           <div className="col-xl-6">
           <p>“FAM Group Construction” MMC “FAM Group” ailəsinin qollarından biridir. 02.12.2019-cu il tarixində 1912020386947900 nömrəli dövlət reyestrindən çıxarış əsasında dövlət qeydiyyatına alınıb, 07.01.2020-ci il tarixindən isə fəaliyyətə başlayıb. Bu günə qədər  Qaynaq quraşdırma, Boyama  Tikintisinə icazə tələb olunan bina və qurğuların tikinti-quraşdırma işlərində, Maye və təbii qaz təsərrüfatı obyektlərinin quraşdırılması və istismarınıda bir sıra işlər görülmüşdür.

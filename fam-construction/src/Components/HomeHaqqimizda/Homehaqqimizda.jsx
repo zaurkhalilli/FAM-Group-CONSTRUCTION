@@ -9,7 +9,7 @@ const Homehaqqimizda = () => {
         <div className="row g-2">
             <div className="col-xl-6">
            <div className="imgleft">
-           <img src="https://famgroupconstruction.az/templates/az/images/about.png" alt="" />
+           <img src="https://famgroupconstruction.az/templates/az/images/about.png" alt="FAM-Group-Construction-Haqqimizda" />
            <p>FAM GROUP CONSTRUCTION</p>
            </div>
             </div>

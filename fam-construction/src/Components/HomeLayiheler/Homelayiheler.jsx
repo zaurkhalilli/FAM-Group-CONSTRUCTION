@@ -9,13 +9,13 @@ const Homelayiheler = () => {
        <div className="container">
        <div className="row g-5">
         <div className="col-xl-6">
-        <Link to="/layiheler" class="btn"> <img src="https://famgroupconstruction.az/uploads/posts/2023-07/1690657671_7.jpg" alt="" /> </Link>
+        <Link to="/layiheler" class="btn"> <img src="https://famgroupconstruction.az/uploads/posts/2023-07/1690657671_7.jpg" alt="FAM-Group-Construction-Layihələr" /> </Link>
        <div className="layihetext">
        <p>Gəncə şəhərində Bakcell Müştəri xidmətləri mərkəzinin təmiri</p>
        </div>
         </div>
         <div className="col-xl-6">
-        <Link to="/layiheler" class="btn"> <img src="https://famgroupconstruction.az/uploads/posts/2023-07/1690654975_3.jpg" alt="" /> </Link>
+        <Link to="/layiheler" class="btn"> <img src="https://famgroupconstruction.az/uploads/posts/2023-07/1690654975_3.jpg" alt="FAM-Group-Construction-Layihələr" /> </Link>
        <div className="layihetext">
        <p>Fizuli rayonu Zobucuq 4 qəsəbəsindəki 50 metrəlik ötürücü baza stansiyasının inşası</p>
        </div>

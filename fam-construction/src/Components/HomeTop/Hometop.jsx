@@ -14,12 +14,12 @@ const Hometop = () => {
         arrows: true           
       };
       
-  const images = [
-    "https://famgroupconstruction.az/templates/az/images/slider1.png",
-    "https://famgroupconstruction.az/templates/az/images/slider2.png",
-    "https://famgroupconstruction.az/templates/az/images/slider3.png",
-    "https://famgroupconstruction.az/templates/az/images/slider4.png"
-  ];
+      const images = [
+        "https://famgroupconstruction.az/templates/az/images/slider1.png",
+        "https://famgroupconstruction.az/templates/az/images/slider2.png",
+        "https://famgroupconstruction.az/templates/az/images/slider3.png",
+        "https://famgroupconstruction.az/templates/az/images/slider4.png"
+      ];
   
 
   return (
