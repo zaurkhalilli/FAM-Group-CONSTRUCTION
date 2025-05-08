@@ -12,7 +12,7 @@ const Footer = () => {
         <div className="row">
           <div className="col-xl-4">
          <div className="footerlogo">
-         <Link to="/"><img src="https://famgroupconstruction.az/templates/az/images/logo.jpg" alt="Fam Group Logo" />
+         <Link to="/"><img src="https://famgroupconstruction.az/templates/az/images/logo.jpg" alt="FAM-Group-Construction-Logo" />
          </Link>
          </div>
           </div>

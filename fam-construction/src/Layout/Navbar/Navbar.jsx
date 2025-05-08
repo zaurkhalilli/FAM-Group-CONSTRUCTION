@@ -10,7 +10,6 @@ import { FaYoutube } from "react-icons/fa";
 
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
-  const [mobileSubmenuOpen, setMobileSubmenuOpen] = useState(false); // Yeni state
 
   const toggleMenu = () => {
     setMenuOpen(!menuOpen);
@@ -39,7 +38,7 @@ const Navbar = () => {
             <div className="col-xl-2">
               <div className="logo">
                 <Link to="/">
-                  <img src={logo} alt="FAM-Group-Construction" />
+                  <img src={logo} alt="FAM-Group-Construction-Logo" />
                 </Link>
               </div>
             </div>
@@ -75,7 +74,7 @@ const Navbar = () => {
       <div className="navbar__tablet">
         <div className="navbar__tablet-menu">
           <div className="navbarlogo">
-            <Link to="/"><img src="https://famgroupconstruction.az/templates/az/images/logo.jpg" alt="Fam Group Logo" /></Link>
+            <Link to="/"><img src="https://famgroupconstruction.az/templates/az/images/logo.jpg" alt="FAM-Group-Construction-Logo" /></Link>
           </div>
           <Link to="/">ANA SƏHİFƏ</Link>
           <div className="tablet-dropdown">
@@ -98,7 +97,7 @@ const Navbar = () => {
       <div className="navbar__mobile">
         <div className="navbar__burger" onClick={toggleMenu}>
           <div className="navbarlogo">
-            <Link to="/"><img src="https://famgroupconstruction.az/templates/az/images/logo.jpg" alt="Fam Group Logo" /></Link>
+            <Link to="/"><img src="https://famgroupconstruction.az/templates/az/images/logo.jpg" alt="FAM-Group-Construction-Logo" /></Link>
           </div>
           ☰
         </div>
