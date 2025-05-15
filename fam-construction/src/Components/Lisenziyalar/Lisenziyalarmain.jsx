@@ -1,9 +1,9 @@
 import React from 'react'
 import '../Lisenziyalar/Lisenziyalarmain.scss'
-import Photo from '../Lisenziyalar/Lisenziya1.jpeg'
-import Photo2 from '../Lisenziyalar/Lisenziya2.jpeg'
-import Photo3 from '../Lisenziyalar/Lisenziya3.jpeg'
-import Photo4 from '../Lisenziyalar/Lisenziya4.jpeg'
+import Photo from '../Lisenziyalar/Lisenziya.pdf.jpg'
+import Photo2 from '../Lisenziyalar/2.jpg'
+import Photo3 from '../Lisenziyalar/1.jpg'
+import Photo4 from '../Lisenziyalar/2.jpg'
 import Photo5 from '../Lisenziyalar/lisenziyacover.jpg'
 const Lisenziyalarmain = () => {
   return (
