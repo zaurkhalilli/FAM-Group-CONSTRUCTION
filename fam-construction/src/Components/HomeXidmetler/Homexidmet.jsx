@@ -9,16 +9,16 @@ const Homexidmet = () => {
       <div className="container">
         <div className="row g-4">
             <div className="col-xl-3">
-            <Link to="/xidmetler"><img src="https://famgroupconstruction.az/uploads/posts/2021-07/medium/1626982616_services1.png" alt="FAM-Group-Construction-Xidmetler" /></Link>
+            <Link to="/xidmetler"><img src="https://images.unsplash.com/photo-1589939705384-5185137a7f0f?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="FAM-Group-Construction-Xidmetler" /></Link>
             </div>
             <div className="col-xl-3">
-            <Link to="/xidmetler"><img src="	https://famgroupconstruction.az/uploads/posts/2021-07/medium/1626982728_services2.png" alt="FAM-Group-Construction-Xidmetler" /></Link>
+            <Link to="/xidmetler"><img src="https://images.unsplash.com/photo-1589939705384-5185137a7f0f?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="FAM-Group-Construction-Xidmetler" /></Link>
             </div>
             <div className="col-xl-3">
-            <Link to="/xidmetler"><img src="	https://famgroupconstruction.az/uploads/posts/2021-07/medium/1626982813_services3.png" alt="FAM-Group-Construction-Xidmetler" /></Link>
+            <Link to="/xidmetler"><img src="https://images.unsplash.com/photo-1589939705384-5185137a7f0f?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="FAM-Group-Construction-Xidmetler" /></Link>
             </div>
             <div className="col-xl-3">
-            <Link to="/xidmetler"><img src="https://famgroupconstruction.az/uploads/posts/2021-07/medium/1626982893_services4.png" alt="FAM-Group-Construction-Xidmetler" /></Link>
+            <Link to="/xidmetler"><img src="https://images.unsplash.com/photo-1589939705384-5185137a7f0f?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="FAM-Group-Construction-Xidmetler" /></Link>
             </div>
         </div>
       </div>

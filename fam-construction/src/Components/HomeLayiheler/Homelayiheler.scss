@@ -2,7 +2,10 @@
     padding-top: 40px;
     padding-bottom: 80px;
     background-color: #e4e4e4;
-    text-align: center;
+    h3{
+        text-align: center;
+    }
+
     img{
         position: relative;
         width: 100%; 
@@ -11,7 +14,6 @@
         transition: opacity 0.4s ease;
     }
    .layihetext{
-    padding-left: 10px;
     p{
         max-width: 650px;
         position: absolute;
